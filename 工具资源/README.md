@@ -61,3 +61,4 @@
 [Regulex](https://jex.im/regulex/#!embed=false&flags=&re=%5E(a%7Cb)*%3F%24) - 正则表达式工具    
 [tiobe](http://www.tiobe.com/index.php/content/company/Home.html) - 每月语言排行榜    
 [codota](http://www.codota.com/) - Find Great Code Examples    
+[feedly](https://feedly.com) - 可跨平台阅读的 RSS 阅读器   
