@@ -57,7 +57,7 @@
 [Techno Talkative](http://www.technotalkative.com/)   
 [HANNES DORFMANN](http://hannesdorfmann.com/)   
 [froger_mcs dev blog](http://frogermcs.github.io/)   
-[http://blog.danlew.net/](http://blog.danlew.net/)   
+[Dan Lew Codes](http://blog.danlew.net/)   
 [Saúl Molinero](http://saulmm.github.io/)   
 [Fernando Cejas](http://fernandocejas.com/)   
 [Little Robots](http://littlerobots.nl/blog/)   
@@ -82,6 +82,9 @@
 
 [deepinmind的技术博客](http://it.deepinmind.com/)   
 [花样的年华](http://calvin1978.blogcn.com/)   
+
+# 算法   
+[结构之法 算法之道](http://blog.csdn.net/v_july_v)   
 
 # 其它   
 
