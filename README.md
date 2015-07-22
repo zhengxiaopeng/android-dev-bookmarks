@@ -1,8 +1,13 @@
 # Android Dev Bookmarks
 Android 开发者的浏览器书签。
 
-## 贡献
-欢迎提 Issues 或 Pull requests。
+## 参与
+欢迎提 Issues 或 Pull requests。   
+查找是否已存在网站可用如下命令：   
+``` Bash
+grep -r "关键字"
+git grep "关键字"
+```
 
 ## License
 ```
