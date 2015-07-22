@@ -6,7 +6,6 @@
 [Jennift](http://jennift.com/)   
 [Grepcode](http://grepcode.com/project/repository.grepcode.com/java/ext/com.google.android/android/) - Android系统源码在线查看   
 [AndroidXRef](http://androidxref.com/) - Android系统源码在线查看    
-[23code](http://www.23code.com/) - Android 各种库展示
 
 ## 各种库   
 
@@ -14,7 +13,8 @@
 [appance](http://www.appance.com/category/android/)   
 [Android Libraries and Resources](http://alamkanak.github.io/android-libraries-and-resources/)   
 [appdoll](http://www.appdoll.com/)   
-[Android开源项目分类汇总](https://github.com/Trinea/android-open-project)   
+[Android开源项目分类汇总](https://github.com/Trinea/android-open-project)  
+[23code](http://www.23code.com/) - Android 各种库展示    
 
 ## UI & 设计    
 
