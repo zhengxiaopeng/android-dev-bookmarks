@@ -53,12 +53,16 @@
 
 ## 原型设计   
 [fluid](https://www.fluidui.com/) - Free project with up to 10 screens    
-[proto](https://proto.io/) - Prototypes that feel real    
+[proto](https://proto.io/) - Prototypes that feel real     
+[Pixate](http://www.pixate.com/) - Make your ideas a reality   
 
 ## 其它   
 [Appetize.io](https://appetize.io/demo) - Web 在线跑起你的 App   
 [jsonschema2pojo](http://www.jsonschema2pojo.org/) - 一个强大的 Json 文本转换为 Java 类的工具    
-[Regulex](https://jex.im/regulex/#!embed=false&flags=&re=%5E(a%7Cb)*%3F%24) - 正则表达式工具    
-[tiobe](http://www.tiobe.com/index.php/content/company/Home.html) - 每月语言排行榜    
+[Regulex](https://jex.im/regulex/#!embed=false&flags=&re=%5E(a%7Cb)*%3F%24) - 正则表达式工具      
 [codota](http://www.codota.com/) - Find Great Code Examples    
-[feedly](https://feedly.com) - 可跨平台阅读的 RSS 阅读器   
+[feedly](https://feedly.com) - 可跨平台阅读的 RSS 阅读器      
+[.gitignore.io](https://www.gitignore.io/) - 在线生成 .gitignore 文件    
+[mydevice.io](http://mydevice.io/) - 检测、查看设备屏幕屏幕信息   
+
+
