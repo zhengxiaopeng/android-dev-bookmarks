@@ -27,6 +27,7 @@
 [stormzhang](http://stormzhang.com/)   
 [imid](http://www.imid.me/)   
 [胡凯](http://hukai.me/)   
+[Frodo](http://frodoking.github.io/)
 [Android Cool Posts](http://greenrobot.me/)   
 [Jlog @Android笔记](http://www.race604.com/)   
 [ChenQichao's Blog](http://chenqichao.me/)    
