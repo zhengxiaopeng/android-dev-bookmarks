@@ -9,17 +9,20 @@
 [任玉刚](http://blog.csdn.net/singwhatiwanna)   
 [张兴业的博客](http://blog.csdn.net/xyz_lmn)   
 [Hongyang](http://blog.csdn.net/lmj623565791)   
-[Android_Tutor的专栏](http://blog.csdn.net/android_tutor)   
+[Android_Tutor的专栏 - 魏祝林](http://blog.csdn.net/android_tutor)   
 [Mobile Internet developer](http://blog.csdn.net/xiaanming)   
 [傲慢的上校的专栏](http://blog.csdn.net/lilu_leo)   
 [AigeStudio](http://blog.csdn.net/aigestudio)   
 [Android手机病毒分析及研究](http://blog.csdn.net/androidsecurity)   
-[Mr.Simple的专栏](http://blog.csdn.net/bboyfeiyu)   
+[Mr.Simple的专栏](http://blog.csdn.net/bboyfeiyu)    
+[Innost的专栏 - 阿拉神农  ](http://blog.csdn.net/innost)    
+[hellogv的专栏](http://blog.csdn.net/hellogv)
 
 ###  其它博客平台   
 
 [农民伯伯](http://www.cnblogs.com/over140/)   
-[张涛OSC](http://my.oschina.net/kymjs/blog)   
+[张涛OSC](http://my.oschina.net/kymjs/blog)     
+[wyouflf](http://my.oschina.net/u/1171837)
 
 ### 个人博客   
 [Trinea](http://www.trinea.cn/)   
@@ -76,7 +79,12 @@
 [Codedependent](http://graphics-geek.blogspot.com/)   
 [Daniel Lew's Coding Thoughts](http://daniel-codes.blogspot.com/)   
 [android ui patterns](http://www.androiduipatterns.com/)   
-[Michał Z](http://mzgreen.github.io/)   
+[Michał Z](http://mzgreen.github.io/)    
+[ALESSANDRO CRUGNOLA](http://blog.sephiroth.it/)   
+[ONGOING DEV ](http://gmariotti.blogspot.it/)    
+[JPARDOGO](https://medium.com/@jpardogo)   
+[mttkay here](http://mttkay.github.io/)    
+[CODE ZEN](http://arpitonline.com/category/android/)
 
 # Java   
 
