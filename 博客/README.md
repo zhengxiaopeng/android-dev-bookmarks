@@ -111,4 +111,6 @@
 [Lucida](http://zh.lucida.me/)   
 [Engineering Blog - Facebook](https://code.facebook.com/posts/)   
 [The Corner - Square](https://corner.squareup.com/)   
-[THE NERD BLOG](https://www.bignerdranch.com/blog/)   
+[THE NERD BLOG](https://www.bignerdranch.com/blog/)    
+[Instagram Engineering](http://instagram-engineering.tumblr.com/)   
+

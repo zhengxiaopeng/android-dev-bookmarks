@@ -20,9 +20,8 @@
 
 [Materialup](http://www.materialup.com/) - Get the best of Material Design   
 [android app patterns](http://www.android-app-patterns.com/) - Design inspiration for your Android app   
-[Android Niceties](http://androidniceties.tumblr.com/) - A collection of screenshots encompassing some of the most beautiful looking Android apps.   
-[Android Niceties](http://androidniceties.tumblr.com/)    
-[User Interfaces IO](http://userinterfaces.io/)   
+[Android Niceties](http://androidniceties.tumblr.com/) - A collection of screenshots encompassing some of the most beautiful looking Android apps.    
+ [User Interfaces IO](http://userinterfaces.io/)   
 [coolors](http://coolors.co/) - The super  fast colour schemes generator for cool designers   
 [dribbble](https://dribbble.com/)   
 
