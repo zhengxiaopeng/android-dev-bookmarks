@@ -15,7 +15,8 @@
 [Android Developers Blog](http://android-developers.blogspot.com/)   
 [Android Official Blog](http://officialandroid.blogspot.com/)   
 [Google Office Blog](http://googleblog.blogspot.com/)   
-[Google Devlopers Blog](http://googledevelopers.blogspot.com/)   
+[Google Devlopers Blog](http://googledevelopers.blogspot.com/)    
+[Google Open Source Blog](http://google-opensource.blogspot.com/)
 
 ## 账号   
 

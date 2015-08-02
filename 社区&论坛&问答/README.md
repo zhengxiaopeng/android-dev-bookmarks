@@ -2,7 +2,8 @@
 
 [Reddit - androiddev](https://www.reddit.com/r/androiddev)   
 [开源中国社区](http://www.oschina.net/)   
-[V2EX](http://www.v2ex.com/)   
+[V2EX](http://www.v2ex.com/)    
+[xda-developers](http://forum.xda-developers.com/)   
 
 ## 问答   
 

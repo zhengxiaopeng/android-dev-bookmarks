@@ -84,7 +84,9 @@
 [ONGOING DEV ](http://gmariotti.blogspot.it/)    
 [JPARDOGO](https://medium.com/@jpardogo)   
 [mttkay here](http://mttkay.github.io/)    
-[CODE ZEN](http://arpitonline.com/category/android/)
+[CODE ZEN](http://arpitonline.com/category/android/)   
+[Ryan Harter](http://ryanharter.com/)   
+[Yet Another [à compléter]](http://blog.neteril.org/)
 
 # Java   
 
