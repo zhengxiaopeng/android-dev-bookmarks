@@ -5,7 +5,8 @@
 [Android Holo Colors Generator](http://android-holo-colors.com/)   
 [Jennift](http://jennift.com/)   
 [Grepcode](http://grepcode.com/project/repository.grepcode.com/java/ext/com.google.android/android/) - Android系统源码在线查看   
-[AndroidXRef](http://androidxref.com/) - Android系统源码在线查看    
+[AndroidXRef](http://androidxref.com/) - Android系统源码在线查看     
+[Inloop Open Source](http://inloop.github.io/)
 
 ## 各种库   
 
@@ -39,7 +40,9 @@
 [Icon Store](http://iconstore.co/) - Free Icon Packs by First-Class Designers   
 [tinypng](https://tinypng.com/) - 高保真压缩 png 图片   
 [Material Design Iconic Font](http://zavoloklom.github.io/material-design-iconic-font/index.html)    
-[icons4android](http://www.icons4android.com/)   
+[icons4android](http://www.icons4android.com/)    
+[Android Icons](http://www.androidicons.com/)   
+[Material Design Icons](https://materialdesignicons.com/)
 
 ## Github   
 [astralapp](https://app.astralapp.com/dashboard) - 管理 Github star 项目   
@@ -55,7 +58,8 @@
 ## 原型设计   
 [fluid](https://www.fluidui.com/) - Free project with up to 10 screens    
 [proto](https://proto.io/) - Prototypes that feel real     
-[Pixate](http://www.pixate.com/) - Make your ideas a reality   
+[Pixate](http://www.pixate.com/) - Make your ideas a reality    
+[墨刀](https://modao.cc/)
 
 ## 其它   
 [Appetize.io](https://appetize.io/demo) - Web 在线跑起你的 App   
