@@ -16,6 +16,8 @@
 [App开发日报](http://memect.com/)   
 [码农周刊](http://weekly.manong.io/)   
 [Segmentfault 精选](http://segmentfault.com/user/settings?tab=notify)   
+[干货集中营](http://gank.io/)   
 [微信公众号: AndroidDeveloper - Android干货分享)](AndroidDeveloper)   
 [微信公众号：androidpd - 安卓应用频道](androidpd)   
-[微信公众号：xitucircle - 稀土圈](微信公众号：xitucircle)   
+[微信公众号：xitucircle - 稀土圈](微信公众号：xitucircle)  
+
