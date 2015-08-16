@@ -85,7 +85,8 @@
 [mttkay here](http://mttkay.github.io/)    
 [CODE ZEN](http://arpitonline.com/category/android/)   
 [Ryan Harter](http://ryanharter.com/)   
-[Yet Another [à compléter]](http://blog.neteril.org/)
+[Yet Another [à compléter]](http://blog.neteril.org/)   
+[DONN FELKER](http://www.donnfelker.com/)  
 
 # Java   
 

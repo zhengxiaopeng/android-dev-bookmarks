@@ -1,6 +1,7 @@
 ## 阅读分享   
 
-[Speaker Deck](https://speakerdeck.com/) - Share Presentations without the Mess    
+[Speaker Deck](https://speakerdeck.com/) - Share Presentations without the Mess     
+[Slide Share](https://www.slideshare.net/)   
 [开发者头条](http://toutiao.io/) - 可订阅   
 [How I Got My First 3 Customers](http://www.howigotmyfirst3customers.com/)   
 [Android Weekly](http://androidweekly.net/)   - 可订阅   

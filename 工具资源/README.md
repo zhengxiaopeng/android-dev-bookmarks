@@ -16,6 +16,7 @@
 [appdoll](http://www.appdoll.com/)   
 [Android开源项目分类汇总](https://github.com/Trinea/android-open-project)  
 [23code](http://www.23code.com/) - Android 各种库展示    
+[Android Gems](http://www.android-gems.com/)  
 
 ## UI & 设计    
 
