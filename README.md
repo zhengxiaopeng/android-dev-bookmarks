@@ -8,10 +8,11 @@ Android 开发者的浏览器书签。
 grep -r "关键字"
 git grep "关键字"
 ```
+P.S. 由于 Github 的 Markdown 渲染，换行时请敲几个空格再回车～
 
 ## License
 ```
-Copyright 2015 Rocko (zhengxiaopeng) <rocko.zxp@gmail.com>.
+Copyright 2015 Rocko (zhengxiaopeng.com) <rocko.zxp@gmail.com>.
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.

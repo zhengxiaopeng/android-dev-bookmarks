@@ -16,7 +16,8 @@
 [appdoll](http://www.appdoll.com/)   
 [Android开源项目分类汇总](https://github.com/Trinea/android-open-project)  
 [23code](http://www.23code.com/) - Android 各种库展示    
-[Android Gems](http://www.android-gems.com/)  
+[Android Gems](http://www.android-gems.com/)   
+[AndroidLibs](https://android-libs.com/)
 
 ## UI & 设计    
 
@@ -62,13 +63,17 @@
 [Pixate](http://www.pixate.com/) - Make your ideas a reality    
 [墨刀](https://modao.cc/)
 
+## 知识管理
+[feedly](https://feedly.com/) - 可跨平台阅读的 RSS 阅读器   
+[Pocket](https://getpocket.com/) - 发现想在以后查看的内容时，先将其放入 Pocket   
+
 ## 其它   
 [Appetize.io](https://appetize.io/demo) - Web 在线跑起你的 App   
 [jsonschema2pojo](http://www.jsonschema2pojo.org/) - 一个强大的 Json 文本转换为 Java 类的工具    
 [Regulex](https://jex.im/regulex/#!embed=false&flags=&re=%5E(a%7Cb)*%3F%24) - 正则表达式工具      
 [codota](http://www.codota.com/) - Find Great Code Examples    
-[feedly](https://feedly.com) - 可跨平台阅读的 RSS 阅读器      
 [.gitignore.io](https://www.gitignore.io/) - 在线生成 .gitignore 文件    
-[mydevice.io](http://mydevice.io/) - 检测、查看设备屏幕屏幕信息   
+[mydevice.io](http://mydevice.io/) - 检测、查看设备屏幕屏幕信息    
+[AppBrain | Stats   ](http://www.appbrain.com/stats/libraries/dev) - Android 工具、库使用排行
 
 

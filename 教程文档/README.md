@@ -7,4 +7,5 @@
 [vogella - android](http://www.vogella.com/tutorials/android.html)   
 [GitHub秘籍](http://snowdream86.gitbooks.io/github-cheat-sheet/content/zh/index.html)   
 [Git -Book](https://git-scm.com/book/zh/v1)   
-[Git教程 - 廖雪峰的官方网站](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)   
+[Git教程 - 廖雪峰的官方网站](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)    
+[Material Design 中文版](http://wiki.jikexueyuan.com/project/material-design/)
