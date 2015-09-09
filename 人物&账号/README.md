@@ -15,6 +15,10 @@
 [Bilibili](https://github.com/bilibili)   
 [Tumblr](https://github.com/tumblr)    
 [FlymeOS](https://github.com/flymeOS)   
-[Flipboard](https://github.com/Flipboard)   
+[Flipboard](https://github.com/Flipboard)  
+[codekk](https://github.com/aosp-exchange-group) 
+
+### GitHub people
+[kymjs张涛](https://github.com/kymjs) 
 
 ## Loading...   
