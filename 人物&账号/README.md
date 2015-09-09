@@ -19,6 +19,40 @@
 [codekk](https://github.com/aosp-exchange-group) 
 
 ### GitHub people
-[kymjs张涛](https://github.com/kymjs) 
+
+#### 国外
+[JakeWharton](https://github.com/JakeWharton)   
+[Roman Nurik](https://github.com/romannurik)   
+[SimonVT](https://github.com/SimonVT)   
+[greenrobot](https://github.com/greenrobot)   
+[koush](https://github.com/koush)   
+[Chris Banes](https://github.com/chrisbanes)   
+[android10](https://github.com/android10)   
+[Daniel Lew](https://github.com/dlew)   
+[Jeremy Feinstein](https://github.com/jfeinstein10)   
+[https://github.com/flavienlaurent](https://github.com/flavienlaurent)   
+[Sergey Tarasevich](https://github.com/nostra13)   
+[Cyril Mottier](https://github.com/cyrilmottier)   
+[Emil Sjölander](https://github.com/emilsjolander)    
+[James Smith](https://github.com/loopj)   
+[JPARDOGO](https://github.com/jpardogo)   
+[Christopher Jenkins](https://github.com/chrisjenx)   
+[Kevin Sawicki](https://github.com/kevinsawicki)   
+[Gabriele Mariotti](https://github.com/gabrielemariotti)   
+[StylingAndroid](https://github.com/StylingAndroid)   
+[Mike Penz](https://github.com/mikepenz)   
+[Saul MM](https://github.com/saulmm)   
+
+#### 国内
+[Trinea](https://github.com/Trinea)   
+[daimajia](https://github.com/daimajia)   
+[stormzhang](https://github.com/stormzhang)   
+[singwhatiwanna](https://github.com/singwhatiwanna)   
+[yangfuhai](https://github.com/yangfuhai)   
+[kymjs张涛](https://github.com/kymjs)    
+[Mr.Simple](https://github.com/bboyfeiyu)   
+[hongyangAndroid](https://github.com/hongyangAndroid)   
+[baoyongzhang](https://github.com/baoyongzhang)   
+
 
 ## Loading...   
