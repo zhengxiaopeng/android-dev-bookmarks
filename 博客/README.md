@@ -87,7 +87,10 @@
 [Ryan Harter](http://ryanharter.com/)   
 [Yet Another [à compléter]](http://blog.neteril.org/)   
 [DONN FELKER](http://www.donnfelker.com/)    
-[The CommonsBlog](https://commonsware.com/blog/)
+[The CommonsBlog](https://commonsware.com/blog/)   
+[Chris Jenkins](http://chrisjenx.com/)   
+[Lucas Rocha](http://lucasr.org/)   
+
 
 # Java   
 

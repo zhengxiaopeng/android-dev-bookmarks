@@ -16,7 +16,9 @@
 [Tumblr](https://github.com/tumblr)    
 [FlymeOS](https://github.com/flymeOS)   
 [Flipboard](https://github.com/Flipboard)  
-[codekk](https://github.com/aosp-exchange-group) 
+[codekk](https://github.com/aosp-exchange-group)   
+[Qihoo360](github.com/Qihoo360)   
+
 
 ### GitHub people
 
