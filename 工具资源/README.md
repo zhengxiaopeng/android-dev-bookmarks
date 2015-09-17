@@ -19,6 +19,9 @@
 [Android Gems](http://www.android-gems.com/)   
 [AndroidLibs](https://android-libs.com/)
 
+## 开源 App
+[F-Droid](https://f-droid.org/) - Free and Open Source Android App Repository   
+
 
 ## 原型设计   
 [fluid](https://www.fluidui.com/) - Free project with up to 10 screens    
