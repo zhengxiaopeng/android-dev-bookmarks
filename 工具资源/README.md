@@ -22,16 +22,23 @@
 ## 开源 App
 [F-Droid](https://f-droid.org/) - Free and Open Source Android App Repository   
 
+## UI
 
-## 原型设计   
+### 原型
 [fluid](https://www.fluidui.com/) - Free project with up to 10 screens    
 [proto](https://proto.io/) - Prototypes that feel real     
 [Pixate](http://www.pixate.com/) - Make your ideas a reality    
 [墨刀](https://modao.cc/)   
 [invision](http://www.invisionapp.com/)   
+[马克鳗](http://www.getmarkman.com/) - 高效的设计稿标注、测量工具   
 
 
-## UI & 设计    
+###  资源   
+[AndroidAssetStudio](http://romannurik.github.io/AndroidAssetStudio/)    
+[Medialoot](http://medialoot.com/) - Design is easy with Medialoot.   
+
+
+#### 灵感 
 
 [Materialup](http://www.materialup.com/) - Get the best of Material Design   
 [android app patterns](http://www.android-app-patterns.com/) - Design inspiration for your Android app   
@@ -41,11 +48,7 @@
 [dribbble](https://dribbble.com/)    
 [Color Hunt](http://colorhunt.co/) - Beautiful Colors, Every Day.   
 
-
-### UI 资源   
-[AndroidAssetStudio](http://romannurik.github.io/AndroidAssetStudio/)   
-
-### 图标 & 字体   
+#### 图标 & 字体   
 [Material icons guide](http://google.github.io/material-design-icons/)   
 [Emojicon](http://rockerhieu.github.io/emojicon/)   
 [爱图标](http://www.iconpng.com/)   
@@ -64,7 +67,9 @@
 [astralapp](https://app.astralapp.com/dashboard) - 管理 Github star 项目   
 [Github Awards](http://github-awards.com/) - Discover your ranking on GitHub    
 [github rank](http://githubrank.com/) - Github 中国用户排行榜   
-[GitHuber.info](http://githuber.info/) - 打造最好用的 GitHub 人才搜索工具   
+[GitHuber.info](http://githuber.info/) - 打造最好用的 GitHub 人才搜索工具    
+[JitPack.io](https://jitpack.io/) - Easy to use package repository for GitHub   
+
 
 ## 文档编写   
 [Process On](https://www.processon.com/) - 免费在线作图、实时协作    

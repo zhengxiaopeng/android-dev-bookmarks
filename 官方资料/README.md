@@ -34,4 +34,9 @@
 ## 其它   
 
 [I/O 2015 Code Labs](https://io2015codelabs.appspot.com/)   
-[Nexus Files for Developers](https://developers.google.com/android/nexus/images/)   
+[Nexus Files for Developers](https://developers.google.com/android/nexus/images/)  
+
+### 其它文档
+[Android Plugin DSL Reference](http://google.github.io/android-gradle-dsl/current/)  -  DSL reference for Android Gradle Plugin.   
+[Android Testing Support Library](https://google.github.io/android-testing-support-library/)   
+

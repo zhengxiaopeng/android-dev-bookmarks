@@ -20,4 +20,5 @@
 [微信公众号：xitucircle - 稀土圈](http://weixin.sogou.com/gzh?openid=oIWsFt24DUBG1DnrgB3_Zn_9wayI)   
 [微信公众号: AndroidDeveloper - Android干货分享](http://weixin.sogou.com/gzh?openid=oIWsFt_J-51vhsWVPwbspgANgA1s)   
 [微信公众号：androidpd - 安卓应用频道](http://weixin.sogou.com/gzh?openid=oIWsFt3UN7nDoby13hb65dA1IGWQ)   
-[微信公众：Android技术分享](http://weixin.sogou.com/gzh?openid=oIWsFt-oW8gSXJ_WRlM5CYpB_TM0)
+[微信公众号：Android技术分享](http://weixin.sogou.com/gzh?openid=oIWsFt-oW8gSXJ_WRlM5CYpB_TM0)   
+[微信公众号：WeMobileDev - 微信移动客户端开发团队](http://weixin.sogou.com/gzh?openid=oIWsFt95cFA3-k6WXg01uhcmZOko&ext=rgljaGmlw7CbGR1Xy1VhIRAOaKQNsrfucSaqvYgVRL-8s_-EmZwaEhGJEvDHr6lb)
