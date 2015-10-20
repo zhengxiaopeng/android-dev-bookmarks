@@ -91,6 +91,7 @@
 [Chris Jenkins](http://chrisjenx.com/)   
 [Lucas Rocha](http://lucasr.org/)   
 [UDI COHEN](http://blog.udinic.com/)   
+[Fragmented Podcast](http://fragmentedpodcast.com/)   
 
 
 # Java   
@@ -120,5 +121,6 @@
 [The Corner - Square](https://corner.squareup.com/)   
 [THE NERD BLOG](https://www.bignerdranch.com/blog/)    
 [Instagram Engineering](http://instagram-engineering.tumblr.com/)   
-[LinkedIn Engineering](https://engineering.linkedin.com/)   
+[LinkedIn Engineering](https://engineering.linkedin.com/)    
+[Bugly博客](http://bugly.qq.com/blog/)   
 
