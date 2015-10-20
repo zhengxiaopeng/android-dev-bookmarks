@@ -30,5 +30,5 @@ P.S. 由于 Github 的 Markdown 渲染，换行时请敲几个空格再回车～
 
 ## License
 
-![License](http://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-nd.png)   
+![License](http://7tsy92.com1.z0.glb.clouddn.com/by-nc-nd.png?imageView2/2/w/110/h/40/q/100)   
 此项目采用[「署名-非商业性使用-禁止演绎 4.0 国际许可协议」](https://creativecommons.org/licenses/by-nc-nd/4.0/)进行许可。
