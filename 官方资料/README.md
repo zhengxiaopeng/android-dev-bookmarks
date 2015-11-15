@@ -8,7 +8,9 @@
 [Android Open Source Project - Issue Tracker](https://code.google.com/p/android/issues/list)   
 [Android Code Review](https://android-review.googlesource.com/)   
 [Google I/O](https://events.google.com/)   
-[github.com/android](http://android.github.io/)   
+[github.com/android](http://android.github.io/)    
+[android-developer-preview](https://code.google.com/p/android-developer-preview/) - A public project for reporting issues with Android Developer Preview releases   
+
 
 ## 博客   
 
