@@ -23,4 +23,10 @@
 [微信公众号：Android技术分享](http://weixin.sogou.com/gzh?openid=oIWsFt-oW8gSXJ_WRlM5CYpB_TM0)   
 [微信公众号：WeMobileDev - 微信移动客户端开发团队](http://weixin.sogou.com/gzh?openid=oIWsFt95cFA3-k6WXg01uhcmZOko&ext=rgljaGmlw7CbGR1Xy1VhIRAOaKQNsrfucSaqvYgVRL-8s_-EmZwaEhGJEvDHr6lb)   
 [微信公众号：QQ空间终端开发团队](http://weixin.sogou.com/gzh?openid=oIWsFt0CYVU1WpcA6eVp-jUbdZxI&ext=JWYPUbr8sGqJAsojv9OBl97v1GsAOxd1KqU4ibiCdoHf7p4nGJ8ohNDRKl308qpW)   
+[微信公众号：携程无线基础研发团队(CtripMobile)](http://weixin.sogou.com/gzh?openid=oIWsFt0KRtK5KDKx5UWzk5wEtTQg&ext=_L45N5QlA_V8mmsdH1tKZlozTjnPpO4juaqewhNB_4GfqjTBmnCBex86GCxHvTBW) 
+
+
+##  播客（Podcast）
+
+[Fragmented Podcast](http://fragmentedpodcast.com/)    
 

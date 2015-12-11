@@ -90,8 +90,7 @@
 [The CommonsBlog](https://commonsware.com/blog/)   
 [Chris Jenkins](http://chrisjenx.com/)   
 [Lucas Rocha](http://lucasr.org/)   
-[UDI COHEN](http://blog.udinic.com/)   
-[Fragmented Podcast](http://fragmentedpodcast.com/)   
+[UDI COHEN](http://blog.udinic.com/)     
 
 
 # Java   

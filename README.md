@@ -3,7 +3,7 @@ Android 开发者的浏览器书签。
 
 
 ## ToDo
-- 内容持续更新   
+- **内容持续更新**
 - 整理成站点 - [Android Dev Bookmarks](http://adb.rocko.xyz)   
 - Chrome 插件
 
