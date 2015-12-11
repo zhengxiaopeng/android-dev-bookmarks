@@ -6,8 +6,7 @@
 [Android Tools Project Site](http://tools.android.com/)   
 [Android Open Source Project](http://source.android.com/)   
 [Android Open Source Project - Issue Tracker](https://code.google.com/p/android/issues/list)   
-[Android Code Review](https://android-review.googlesource.com/)   
-[Google I/O](https://events.google.com/)   
+[Android Code Review](https://android-review.googlesource.com/)     
 [github.com/android](http://android.github.io/)   
 
 ## 博客   
@@ -31,6 +30,13 @@
 [Google Plus 社群 - Android Development](https://plus.google.com/communities/105153134372062985968)    
 [Google Plus 社群 - Android Performance Patterns](https://plus.google.com/communities/116342551728637785407)    
 [Twitter - Android Developers](https://twitter.com/androiddev/)   
+
+## 活动会议
+
+[Google I/O](https://events.google.com/) - [I/O 2015](https://events.google.com/io2015/)   
+[Android Dev Summit](https://androiddevsummit.withgoogle.com/)   
+
+
 
 ## 其它   
 

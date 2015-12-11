@@ -31,6 +31,8 @@
 [360移动安全](http://www.sanwho.com/)    
 [百度安全实验室](http://seclab.safe.baidu.com/)      
 [阿里聚安全](http://jaq.alibaba.com/blog.htm?spm=0.0.0.0.d4b8ST)     
-[飘云阁安全论坛](http://bbs.chinapyg.com/)   
+[飘云阁安全论坛](http://bbs.chinapyg.com/)    
+[FreeBuf](http://www.freebuf.com/)   
+
 
 
