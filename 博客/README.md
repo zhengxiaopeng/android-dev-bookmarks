@@ -1,11 +1,11 @@
 title: 博客
 ---
 
-# Android
+## Android
 
-## 国内   
+### 国内   
 
-### CSDN   
+#### CSDN   
 
 [老罗的Android之旅](http://blog.csdn.net/Luoshengyang/)   
 [郭霖的专栏](http://blog.csdn.net/guolin_blog)   
@@ -19,15 +19,17 @@ title: 博客
 [Android手机病毒分析及研究](http://blog.csdn.net/androidsecurity)   
 [Mr.Simple的专栏](http://blog.csdn.net/bboyfeiyu)    
 [Innost的专栏 - 阿拉神农  ](http://blog.csdn.net/innost)    
-[hellogv的专栏](http://blog.csdn.net/hellogv)
+[hellogv的专栏](http://blog.csdn.net/hellogv)   
 
-###  其它博客平台   
+
+####  其它博客平台   
 
 [农民伯伯](http://www.cnblogs.com/over140/)   
 [张涛OSC](http://my.oschina.net/kymjs/blog)     
-[wyouflf](http://my.oschina.net/u/1171837)
+[wyouflf](http://my.oschina.net/u/1171837)  
 
-### 个人博客   
+
+#### 个人博客   
 [Trinea](http://www.trinea.cn/)   
 [代码家](http://blog.daimajia.com/)   
 [stormzhang](http://stormzhang.com/)   
@@ -49,9 +51,10 @@ title: 博客
 [张涛博客](http://blog.kymjs.com/)   
 [lzy's blog](http://lzyblog.com/)   
 [雨松MOMO](http://www.xuanyusong.com/)   
-[Drakeet的个人博客](http://drakeet.me/)   
+[Drakeet的个人博客](http://drakeet.me/)     
 
-## 国外   
+
+### 国外   
 
 [JAKE WHARTON](http://jakewharton.com/blog)   
 [Romain Guy](http://www.curious-creature.com/category/android/)   
@@ -96,15 +99,26 @@ title: 博客
 [UDI COHEN](http://blog.udinic.com/)     
 
 
-# Java   
+====================================================
+====================================================
+
+## Java   
 
 [deepinmind的技术博客](http://it.deepinmind.com/)   
-[花样的年华](http://calvin1978.blogcn.com/)   
+[花样的年华](http://calvin1978.blogcn.com/)     
 
-# 算法   
-[结构之法 算法之道](http://blog.csdn.net/v_july_v)   
 
-# 其它   
+====================================================
+====================================================
+
+## 算法   
+[结构之法 算法之道](http://blog.csdn.net/v_july_v)     
+
+
+====================================================
+====================================================
+
+## 其它   
 
 [牛人技术博客汇总](http://geniusblog.sinaapp.com/)   
 [Tencent AlloyTeam](http://alloyteam.github.io/)   

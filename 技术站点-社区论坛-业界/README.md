@@ -1,4 +1,4 @@
-title: 技术站点&业界
+title: 技术站点-社区论坛-业界
 ---
 
 ## 综合   
@@ -7,20 +7,32 @@ title: 技术站点&业界
 [并发编程网](http://ifeve.com/)   
 [InfoQ](http://www.infoq.com/cn)   
 [伯乐在线](http://www.jobbole.com/)   
-[IT江湖](http://blog.jobbole.com/)   
+[IT江湖](http://blog.jobbole.com/)    
+
+
+==================================
+==================================
 
 ## Java   
 
 [Java Code Geeks](http://www.javacodegeeks.com/)   
 [IBM developerWorks - Java 开发](http://www.ibm.com/developerworks/cn/java/)   
 [IBM developerWorks - Java 核心技术专题](http://www.ibm.com/developerworks/cn/java/coretech/)   
-[ProgramCreek - Java 开发](http://www.programcreek.com/)  
+[ProgramCreek - Java 开发](http://www.programcreek.com/)   
+
+
+==================================
+==================================
 
 ## 移动开发   
 
 [codeKK开源项目源码分析](http://codekk.com/)   
 [泡在网上的日子](http://www.jcodecraeer.com/)   
-[开发技术前线](http://www.devtf.cn/)   
+[开发技术前线](http://www.devtf.cn/)    
+
+
+==================================
+==================================
 
 ## 安全   
 
@@ -35,7 +47,28 @@ title: 技术站点&业界
 [百度安全实验室](http://seclab.safe.baidu.com/)      
 [阿里聚安全](http://jaq.alibaba.com/blog.htm?spm=0.0.0.0.d4b8ST)     
 [飘云阁安全论坛](http://bbs.chinapyg.com/)    
-[FreeBuf](http://www.freebuf.com/)   
+[FreeBuf](http://www.freebuf.com/)    
 
+
+==================================
+==================================
+
+## 社区   
+
+[Reddit - androiddev](https://www.reddit.com/r/androiddev)   
+[开源中国社区](http://www.oschina.net/)   
+[V2EX](http://www.v2ex.com/)    
+[xda-developers](http://forum.xda-developers.com/)   
+
+
+==================================
+==================================
+
+## 问答   
+
+[stackoverflow](http://stackoverflow.com/)    
+[segmentfault](http://segmentfault.com/)   
+[Quora](https://www.quora.com/)   
+[Zhihu](http://www.zhihu.com/)
 
 

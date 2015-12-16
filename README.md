@@ -1,8 +1,10 @@
 # Android Dev Bookmarks(ADB)
-Android 开发者的浏览器书签。
+
+Android 开发者的浏览器书签 - http://adb.rocko.xyz
 
 
-## ToDo
+## ToDo 
+
 - **内容持续更新**
 - ~~整理成站点~~ - [Android Dev Bookmarks](http://adb.rocko.xyz)   
 - Chrome 插件
@@ -10,7 +12,7 @@ Android 开发者的浏览器书签。
 
 ## Contribution
 
-欢迎提 [Issues](https://github.com/zhengxiaopeng/android-dev-bookmarks/issues) 或 [Pull requests](https://github.com/zhengxiaopeng/android-dev-bookmarks/pulls)，或者在站点里[留言](http://adb.rocko.xyz/feedback/)。   
+欢迎 [Issues](https://github.com/zhengxiaopeng/android-dev-bookmarks/issues) 或 [Pull requests](https://github.com/zhengxiaopeng/android-dev-bookmarks/pulls)，或者在站点里[留言](http://adb.rocko.xyz/feedback/)。   
 如果要查看项目中是否已收录某网站，clone 项目后可用如下命令：  
 
 ``` Bash

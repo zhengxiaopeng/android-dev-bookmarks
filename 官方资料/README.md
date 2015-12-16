@@ -12,7 +12,11 @@ title: 官方资料
 [Android Code Review](https://android-review.googlesource.com/)     
 [github.com/android](http://android.github.io/)     
 [android-developer-preview](https://code.google.com/p/android-developer-preview/) - A public project for reporting issues with Android Developer Preview releases   
+[Android Dashboards](http://developer.android.com/intl/zh-cn/about/dashboards/index.html) - Android 平台数据，7天一更新   
 
+
+=========================================================
+=========================================================
 
 ## 博客   
 
@@ -20,7 +24,11 @@ title: 官方资料
 [Android Official Blog](http://officialandroid.blogspot.com/)   
 [Google Office Blog](http://googleblog.blogspot.com/)   
 [Google Devlopers Blog](http://googledevelopers.blogspot.com/)    
-[Google Open Source Blog](http://google-opensource.blogspot.com/)
+[Google Open Source Blog](http://google-opensource.blogspot.com/)   
+
+
+=========================================================
+=========================================================
 
 ## 账号   
 
@@ -34,7 +42,11 @@ title: 官方资料
 [Google Plus 社群 - Android Developer Tools](https://plus.google.com/communities/114791428968349268860)   
 [Google Plus 社群 - Android Development](https://plus.google.com/communities/105153134372062985968)    
 [Google Plus 社群 - Android Performance Patterns](https://plus.google.com/communities/116342551728637785407)    
-[Twitter - Android Developers](https://twitter.com/androiddev/)   
+[Twitter - Android Developers](https://twitter.com/androiddev/)    
+
+
+=========================================================
+=========================================================
 
 ## 活动会议
 
@@ -42,6 +54,8 @@ title: 官方资料
 [Android Dev Summit](https://androiddevsummit.withgoogle.com/)   
 
 
+=========================================================
+=========================================================
 
 ## 其它   
 
@@ -49,6 +63,9 @@ title: 官方资料
 [Nexus Files for Developers](https://developers.google.com/android/nexus/images/)   
 [Codelabs](http://www.code-labs.io/)   
 
+
+=========================================================
+=========================================================
 
 ### 其它文档
 [Android Plugin DSL Reference](http://google.github.io/android-gradle-dsl/current/)  -  DSL reference for Android Gradle Plugin.   

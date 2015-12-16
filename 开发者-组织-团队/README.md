@@ -1,4 +1,4 @@
-title: 人物&账号
+title: 开发者-组织-团队
 ---
 
 ## GitHub   
@@ -48,7 +48,8 @@ title: 人物&账号
 [Mike Penz](https://github.com/mikepenz)   
 [Saul MM](https://github.com/saulmm)   
 
-#### 国内
+#### 国内 
+
 [Trinea](https://github.com/Trinea)   
 [daimajia](https://github.com/daimajia)   
 [stormzhang](https://github.com/stormzhang)   
@@ -60,4 +61,4 @@ title: 人物&账号
 [baoyongzhang](https://github.com/baoyongzhang)   
 
 
-## Loading...   
+## TODO? 
