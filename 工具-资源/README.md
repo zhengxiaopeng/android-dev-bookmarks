@@ -31,7 +31,7 @@ title: 工具-资源
 [Android Holo Colors Generator](http://android-holo-colors.com/)  
 
 
-#### 灵感 
+### 灵感 
 
 [Materialup](http://www.materialup.com/) - Get the best of Material Design   
 [android app patterns](http://www.android-app-patterns.com/) - Design inspiration for your Android app   
@@ -42,7 +42,7 @@ title: 工具-资源
 [Color Hunt](http://colorhunt.co/) - Beautiful Colors, Every Day.     
 
 
-#### 图标-字体 
+### 图标-字体 
   
 [Material icons guide](http://google.github.io/material-design-icons/)   
 [Emojicon](http://rockerhieu.github.io/emojicon/)   
@@ -64,7 +64,7 @@ title: 工具-资源
 
 ## 管理
 
-### Github   
+### GitHub   
 
 [astralapp](https://app.astralapp.com/dashboard) - 管理 Github star 项目   
 [Github Awards](http://github-awards.com/) - Discover your ranking on GitHub    
@@ -73,7 +73,7 @@ title: 工具-资源
 [JitPack.io](https://jitpack.io/) - Easy to use package repository for GitHub    
 
 
-## 知识管理
+### 知识管理
 
 [feedly](https://feedly.com/) - 可跨平台阅读的 RSS 阅读器   
 [Pocket](https://getpocket.com/) - 发现想在以后查看的内容时，先将其放入 Pocket  
