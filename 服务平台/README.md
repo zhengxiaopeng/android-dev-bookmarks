@@ -85,7 +85,7 @@ title: 服务平台
 [Testin云测](http://www.testin.cn/) - 全球领先的App及手游测试平台   
 [易测云](http://www.yiceyun.com/)   
 [Testdroid](http://testdroid.com/)   
-[TestObject](https://testobject.com/)   
+[TestObject](https://testobject.com/)    
 
 
 ----------------------------------------
@@ -95,6 +95,7 @@ title: 服务平台
 [API Store](http://apistore.baidu.com/)   
 [APIX](http://www.apix.cn/)   
 [聚合数据](https://www.juhe.cn/)   
+[SHOWAPI-易源接口](https://www.showapi.com/)   
 
 
 ----------------------------------------

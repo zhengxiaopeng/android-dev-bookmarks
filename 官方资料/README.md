@@ -23,7 +23,8 @@ title: 官方资料
 [Android Official Blog](http://officialandroid.blogspot.com/)   
 [Google Office Blog](http://googleblog.blogspot.com/)   
 [Google Devlopers Blog](http://googledevelopers.blogspot.com/)    
-[Google Open Source Blog](http://google-opensource.blogspot.com/)   
+[Google Open Source Blog](http://google-opensource.blogspot.com/)    
+[Google testing blog](http://googletesting.blogspot.com/)   
 
 
 ----------------------------------------
@@ -57,7 +58,9 @@ title: 官方资料
 
 [I/O 2015 Code Labs](https://io2015codelabs.appspot.com/)   
 [Nexus Files for Developers](https://developers.google.com/android/nexus/images/)   
-[Codelabs](http://www.code-labs.io/)   
+[Codelabs](http://www.code-labs.io/)    
+[Cloud Test Lab]([](https://developers.google.com/cloud-test-lab/))   
+
 
 
 ----------------------------------------

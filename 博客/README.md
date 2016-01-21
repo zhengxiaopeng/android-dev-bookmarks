@@ -55,7 +55,11 @@ title: 博客
 [lzy's blog](http://lzyblog.com/)   
 [雨松MOMO](http://www.xuanyusong.com/)   
 [Drakeet的个人博客](http://drakeet.me/)     
-[廖祜秋liaohuqiu_秋百万](http://liaohuqiu.net/cn/)   
+[廖祜秋liaohuqiu_秋百万](http://liaohuqiu.net/cn/)    
+[技术小黑屋](http://droidyue.com/)    
+[凯子哥](http://blog.csdn.net/zhaokaiqiang1992)   
+[]()
+
 
 
 ### 国外   
@@ -101,7 +105,7 @@ title: 博客
 [Chris Jenkins](http://chrisjenx.com/)   
 [Lucas Rocha](http://lucasr.org/)   
 [UDI COHEN](http://blog.udinic.com/)     
-[Yigit Boyar](http://www.birbit.com/)   
+[Yigit Boyar](http://www.birbit.com/)    
 
 
 ----------------------------------------
@@ -140,5 +144,6 @@ title: 博客
 [THE NERD BLOG](https://www.bignerdranch.com/blog/)    
 [Instagram Engineering](http://instagram-engineering.tumblr.com/)   
 [LinkedIn Engineering](https://engineering.linkedin.com/)    
-[Bugly博客](http://bugly.qq.com/blog/)   
+[Bugly博客](http://bugly.qq.com/blog/)    
+[Android Bookmarks](http://androidbookmarks.net/) - Android文章分类汇总
 
