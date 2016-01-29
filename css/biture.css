@@ -1,0 +1,616 @@
+-------------------------------------------------------------------------------------------*/
+/* 0. setup (overwrite [Pure](http://purecss.io/)) */
+/*-------------------------------------------------------------------------------------------*/
+/*@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700|PT+Sans:400,700);*/
+/*@import url(http://fonts.googleapis.com/css?family=Source+Code+Pro);*/
+@import url(/css/family.css); 
+@import url(/css/family2.css);
+
+body {
+  width: 100%;
+  margin: 0px;
+  padding: 0px;
+  background-color: #eee;
+  text-align: center;
+  font-family: 'Open Sans', 'Source Sans Pro', 'Helvetica Neue', 'Hiragino Kaku Gothic Pro', 'Microsoft Jhenghei', sans-serif;
+  font-size: 18px;
+  color: #444;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  line-height: 1.6em;
+  font-family: 'Myriad Pro', 'PT Sans', 'Lucida Grande', 'Hiragino Sans GB', 'Lantinghei TC', 'Hiragino Kaku Gothic Pro', 'Microsoft Jhenghei', sans-serif;
+  font-weight: normal;
+  text-rendering: optimizelegibility;
+}
+h1 {font-size: 2.3em; margin: .8em 0 .2em 0}
+h2 {font-size: 2em; margin: 1em 0 .4em 0}
+h3 {font-size: 1.7em; margin: 1.2em 0 .6em 0}
+h4 {font-size: 1.4em; margin: 1.4em 0 .8em 0}
+h5 {font-size: 1.2em; margin: 1.6em 0 1.0em 0}
+h6 {font-size: 1em; margin: 1.8em 0 1.2em 0}
+
+a {
+  transition: 0.3s;
+}
+a, a:visited{
+  color: #3979CC; /* block-background-text-normal */
+  text-decoration: none;
+}
+
+ul {
+  margin: 0 0 15px 0;
+}
+p + ul {
+  margin: -15px 0 15px 0;
+}
+li ul {
+  margin: 0 0 10px 0;
+}
+li > p {
+  margin: 0 0 15px 0 !important;
+}
+li > p + ul {
+  margin: -15px 0 15px 0;
+}
+
+img {
+  /*max-width: 100%;
+  border: 1px solid rgba(0,0,0,0.45);
+  background: #fff;
+  box-shadow: rgba(0,0,0,1.0) 0px 0px 2px,rgba(255,255,255,0.15) 0px 1px 1px inset;*/
+}
+
+/* port from bootstrap */
+/*table {width:100%; height: 100%; border-spacing:0; border-collapse:collapse}
+table th, table td {padding:8px; line-height:1.5em; vertical-align:top}
+table th {border-bottom:3px solid #ddd; font-size: .9em}
+table td {border-bottom:1px solid #ddd; font-size: .8em}*/
+/*table > tbody > tr:nth-of-type(odd) {background-color:#e9e9e9}*/
+/*table > tbody > tr:hover {background-color:#f5f5f5}*/
+
+/*-------------------------------------------------------------------------------------------*/
+/* 1. biture: common attribute */
+/*-------------------------------------------------------------------------------------------*/
+.wrap {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+.inner {
+  max-width: 990px;
+  margin: 0 auto;
+  padding: 0 15px;
+  text-align: left;
+}
+
+.relative {
+  position: relative;
+}
+.right, .pull-right {
+  float: right;
+}
+.left, .pull-left {
+  float: left;
+}
+
+blockquote {
+  margin: 0 0 25px 0;
+  padding: 10px 20px 10px 25px;
+  border-left-width: 10px;
+  border-left: 5px solid rgba(102,128,153,0.075);
+  background-color: rgba(102,128,153,0.05);
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+blockquote p:last-child {
+  margin: 0 !important;
+}
+blockquote footer {
+  font-size: .85em;
+  line-height: 1.5em;
+}
+
+
+/*-------------------------------------------------------------------------------------------*/
+/* 2. biture: Header & Navigate menu */
+/*-------------------------------------------------------------------------------------------*/
+#header {
+  position: fixed;
+  left: 0;
+  right: 0;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  border-bottom: 1px solid #bbb;
+  background: #455A64;
+  text-align: left;
+  font-size: 15px;
+  line-height: 30px;
+  color: #eee;
+  z-index: 99999;
+}
+
+
+#header a, #header a:visited {
+  color: #FFFFFF;
+}
+#header a:hover { 
+  color: #FF9800;
+}
+
+.brand {
+  display: inline-block;
+  padding: 5px 20px 5px 20px;
+  font-size: 20px;
+}
+
+/* Navbar */
+ul.nav-menu {
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+}
+ul.nav-menu li {
+  list-style-type: none;
+  display: inline-block;
+  margin: 0;
+  padding: 10px 10px;
+}
+ul.nav-menu li a {
+  text-decoration: none;
+  margin: 0;
+}
+
+/* Submenu */
+ul.nav-menu ul.sub-menu {
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+  background: #455A64;
+  overflow: 
+}
+
+ul.nav-menu ul.sub-menu li {
+  list-style-type: none;
+  display: inline-block;
+  width: 100%;
+  padding: 5px 0px 5px 15px;
+  border-bottom: 1px dotted #607D8B;
+  background: #455A64;
+  white-space: nowrap;
+}
+ul.sub-menu li:hover {
+  background-color: #607D8B !important;
+}
+ul.sub-menu > li:first-child {
+  border-top: 3px solid #f60;
+}
+
+/* Make the parent of sub-menu relative */
+ul.nav-menu li {
+  position: relative;
+}
+ul.nav-menu li ul.sub-menu {
+  display: none;
+  position: absolute;
+  top: 40px;
+  left: 0;
+}
+ul.nav-menu li:hover ul.sub-menu {
+  display:block;
+}
+
+ul.ext-menu {
+  position: relative;
+  float: right;
+}
+#menu-toggle {
+  display: none;
+  float: right;
+  /*text-align: center;*/
+
+}
+
+
+/* Responsive Nav Manu */
+@media all and (max-width: 700px) {
+
+#header {
+  position: fixed;
+  left: 0;
+  right: 0;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  border-bottom: 1px solid #bbb;
+  background: #455A64;
+  text-align: left;
+  font-size: 15px;
+  line-height: 40px;
+  color: #eee;
+  z-index: 99999;
+}
+
+  #menu-toggle {
+    display: block;
+    float: left;
+   margin-top: 5.5px;
+   padding-right: 12px;
+   padding-left: 12px;
+   font-size: 20px;
+  }
+
+  ul.nav-menu {
+    float: none;
+    display: none;
+    width: 100%;
+    font-size: 1.1em;
+  }
+  ul.nav-menu li {
+    display: block;
+    margin: 15px 0 15px 30px;
+    padding: 0;
+  }
+  ul.nav-menu li ul.sub-menu {
+    display: block;
+    position: static;
+    margin: 0;
+    padding: 0;
+  }
+
+  ul.nav-menu ul.sub-menu li,
+  ul.sub-menu > li:first-child {
+    border: none;
+    margin: 10px 0 10px 30px;
+    padding: 0;
+  }
+  ul.sub-menu li:hover {
+    background-color: #607D8B !important;
+  }
+}
+
+.tagcloud a {
+  padding: 3px 5px;
+  display: inline-block;
+  color: #444;
+}
+
+/*-------------------------------------------------------------------------------------------*/
+/* 3. Biture: Main content */
+/*-------------------------------------------------------------------------------------------*/
+
+#main-content {
+  padding: 60px 0 0 0;
+  line-height: 1.8em;
+  vertical-align: baseline;
+}
+#main-content a, #main-content a:visited {
+  padding: 4px;
+}
+#main-content a:hover {
+  border-radius: 4px;
+  box-shadow: #258fb8 0px 0px 2px,rgba(255,255,255,0.15) 0px 1px 1px inset;
+  background: #3979CC;
+  color: #eee;
+}
+
+#main-content p {
+  margin: 0 0 25px 0;
+}
+#main-content p + pre,
+#main-content p + figure,
+#main-content p + blockquote {
+  margin: -10px 0 20px 0;
+}
+
+pre + pre, pre + figure, pre + blockquote,
+figure + pre, figure + figure, figure + blockquote,
+blockquote + pre, blockquote + figure, blockquote + blockquote
+{
+  margin: 15px 0;
+}
+
+.labal {
+  background: #1f8dd6;
+  margin: 10px 0;
+  padding: 0.5em 1em;
+  border-radius: 3px;
+  color: #fff;
+}
+.labal code {
+  padding: .3em .5em;
+  color: #333;
+  border-radius: 3px;
+  background: rgba(250, 250, 250, .7);
+}
+
+/* Article */
+article {
+  margin: 0 0 45px 0;
+}
+
+.article-meta .date {
+  display: block;
+  margin: 15px 15px 15px 0;
+  padding: 5px 5px 0 0;
+  border-right: #aaa 3px solid;
+  text-align: center;
+}
+.article-meta .date .day {
+  font: normal bold 28px Arial, Tahoma, Helvetica, FreeSans, sans-serif;
+}
+.article-meta .date .month {
+  font-size: .7em;
+  white-space: nowrap;
+}
+
+.article-meta .article-tags {
+  margin: 0 20px 0;
+  font-size: .7em;
+}
+.article-meta .article-tags a {
+  color: #3979CC;
+  text-shadow: none;
+}
+@media all and (max-width: 700px) {
+  .article-meta {
+    display: none;
+  }
+}
+
+.article-entry {
+  margin: 15px 0 35px 20px;
+  text-align:justify !important;
+}
+
+.article-entry a {
+  color: #444;
+  border-bottom: 1px dashed #1d8cbd;
+}
+
+.article-comment {
+  padding: 20px 0 0 0;
+}
+
+.article-title a, .article-title a:visited {
+  color: #222;
+}
+.article-title h1 {
+  margin: 15px 0 20px 20px;
+  text-shadow: #ccc 1px 1px 2px;
+  line-height: 1.3em;
+}
+
+/* Youtube, other video container */
+.article-entry .video-container {
+  position: relative;
+  padding-top: 56.25%;
+  margin: 20px 0;
+  height: 0;
+  overflow: hidden;
+}
+.article-entry .video-container iframe,
+.article-entry .video-container object,
+.article-entry .video-container embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+}
+
+/* Code, Pre [landscape](http://goo.gl/hnwXeD) */
+.article-entry pre,
+.article-entry .highlight {
+  background: #494949;
+  margin: -10px 0 10px 0;
+  padding: 15px 20px;
+  border-style: solid;
+  border-color: #ddd;
+  border-width: 1px 0;
+  overflow-y: hidden;
+  overflow-x: auto;
+  color: #ccc;
+  line-height: 22px;
+  font-size: 14px;
+  text-shadow: none;
+}
+.article-entry pre .line,
+.article-entry .highlight .line {
+  min-height: 22px;
+}
+.article-entry li pre,
+.article-entry li .highlight {
+  margin: 5px 0 15px 0;
+}
+.article-entry pre a,
+.article-entry .highlight a{
+  color: #23dbdb;
+}
+.article-entry .highlight .gutter pre,
+.article-entry .gist .gist-file .gist-data .line-numbers {
+  color: #666;
+  font-size: 0.85em;
+}
+.article-entry pre,
+.article-entry code {
+  font-family: Consolas, Monaco, 'Source Code Pro', monospace;
+}
+.article-entry code {
+  background: #ddd;
+  font-size: 14px;
+  text-shadow: 0 1px #fff;
+  padding: 0 0.3em;
+}
+.article-entry pre code {
+  background: none;
+  text-shadow: none;
+  padding: 0;
+}
+.article-entry .highlight pre {
+  border: none;
+  margin: 0;
+  padding: 0;
+}
+.article-entry .highlight table {
+  margin: 0;
+  width: auto;
+}
+.article-entry .highlight td {
+  border: none;
+  padding: 0;
+}
+.article-entry .highlight figcaption {
+  zoom: 1;
+  font-size: 0.85em;
+  color: #999;
+  line-height: 1em;
+  margin-bottom: 1em;
+}
+.article-entry .highlight figcaption:before,
+.article-entry .highlight figcaption:after {
+  content: "";
+  display: table;
+}
+.article-entry .highlight figcaption:after {
+  clear: both;
+}
+.article-entry .highlight figcaption a {
+  float: right;
+}
+.article-entry .highlight .gutter pre {
+  text-align: right;
+  padding-right: 20px;
+}
+.article-entry .gist {
+  margin: 0 -20px;
+  border-style: solid;
+  border-color: #ddd;
+  border-width: 1px 0;
+  background: #494949;
+  padding: 15px 20px 15px 0;
+}
+.article-entry .gist .gist-file {
+  border: none;
+  font-family: "Source Code Pro", Consolas, Monaco, Menlo, Consolas, monospace;
+  margin: 0;
+}
+.article-entry .gist .gist-file .gist-data {
+  background: none;
+  border: none;
+}
+.article-entry .gist .gist-file .gist-data .line-numbers {
+  background: none;
+  border: none;
+  padding: 0 20px 0 0;
+}
+.article-entry .gist .gist-file .gist-data .line-data {
+  padding: 0 !important;
+}
+.article-entry .gist .gist-file .highlight {
+  margin: 0;
+  padding: 0;
+  border: none;
+}
+.article-entry .gist .gist-file .gist-meta {
+  background: #494949;
+  color: #999;
+  font: 0.85em "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-shadow: 0 0;
+  padding: 0;
+  margin-top: 1em;
+  margin-left: 20px;
+}
+.article-entry .gist .gist-file .gist-meta a {
+  color: #258fb8;
+  font-weight: normal;
+}
+.article-entry .gist .gist-file .gist-meta a:hover {
+  text-decoration: underline;
+}
+pre .comment,
+pre .title {
+  color: #999;
+}
+pre .variable,
+pre .attribute,
+pre .tag,
+pre .regexp,
+pre .ruby .constant,
+pre .xml .tag .title,
+pre .xml .pi,
+pre .xml .doctype,
+pre .html .doctype,
+pre .css .id,
+pre .css .class,
+pre .css .pseudo {
+  color: #f2777a;
+}
+pre .number,
+pre .preprocessor,
+pre .built_in,
+pre .literal,
+pre .params,
+pre .constant {
+  color: #f99157;
+}
+pre .class,
+pre .ruby .class .title,
+pre .css .rules .attribute {
+  color: #9c9;
+}
+pre .string,
+pre .value,
+pre .inheritance,
+pre .header,
+pre .ruby .symbol,
+pre .xml .cdata {
+  color: #9c9;
+}
+pre .css .hexcolor {
+  color: #6cc;
+}
+pre .function,
+pre .python .decorator,
+pre .python .title,
+pre .ruby .function .title,
+pre .ruby .title .keyword,
+pre .perl .sub,
+pre .javascript .title,
+pre .coffeescript .title {
+  color: #69c;
+}
+pre .keyword,
+pre .javascript .function {
+  color: #c9c;
+}
+
+
+/*-------------------------------------------------------------------------------------------*/
+/* 4. Biture: Footer */
+/*-------------------------------------------------------------------------------------------*/
+/* pagination */
+.bitpager a {
+  display: inline-block;
+  padding: 5px 10px;
+  background: #ddd;
+  color: #999;
+  font-family: "Lato", Helvetica Neue, Helvetica, Arial, sans-serif;
+  text-shadow: 0 0 1px #fff;
+  margin-bottom: 20px;
+}
+
+#footer {
+ /* width: 100%;
+  margin: 30px 0 0 0;
+  padding: 20px 0 15px 0;
+  font-size: .8em;
+  background: #ccc;
+  border-top: 1px solid #aaa;*/
+}
+
+/*-------------------------------------------------------------------------------------------*/
+/* 5. Components */
+/*-------------------------------------------------------------------------------------------
