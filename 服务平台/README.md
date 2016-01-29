@@ -4,15 +4,10 @@ title: 服务平台
 ## 综合
 
 [Dev Store](http://www.devstore.cn/) - DevStore是从产品前期、设计、开发、推广、运维整个项目的流程出发一站式、全方位、多角度的贯穿整个移动互联网生命周期的企业运营解决方案整合平台。 
-   
-[SDK.CN](https://www.sdk.cn/) - SDK.cn，为开发者提供最全面的 `API` 服务，汇集了国内外应用开发所需要的Android API/SDK，iOS SDK，WindowsPhone SDK，涉及设计开发，运维服务，云服务，市场推广，数据服务等多种服务，旨在向开发者提供最全面，最便捷的API/SDK相关服务。   
-
+[SDK.CN](https://www.sdk.cn/) - SDK.cn，为开发者提供最全面的 `API` 服务，汇集了国内外应用开发所需要的Android API/SDK，iOS SDK，WindowsPhone SDK，涉及设计开发，运维服务，云服务，市场推广，数据服务等多种服务，旨在向开发者提供最全面，最便捷的API/SDK相关服务。  
 [友盟](https://www.umeng.com/) - 统计、推送、社交、消息推送、微社区、自动更新、在线参数、多媒体服务、即时通讯   
-
 [Mob](http://www.mob.com/) - `ShareSDK：` 社会化功能，`ShareREC：` 手游录像解决方案，`短信验证码SDK`、`BigApp：一键生成移动 Discuz 论坛`、`MobAPI（API 云）：`   
-
 [百度开发者中心](http://developer.baidu.com/) - 百度手机助手、百度推送、地图、百度移动统计、人脸识别、云测等等等  
-
 [小米开放平台](http://dev.xiaomi.com/) - 消息推送、检查更新、小米账号登陆、小米支付服务、小米统计
 
 
@@ -29,11 +24,7 @@ title: 服务平台
 [Bugly内测](http://beta.qq.com/)   
 [fir.im](https://fir.im/) - 免费应用内测托管平台|Android应用内测分发   
 [蒲公英](http://www.pgyer.com/)   
-
-
-### 市场
-
-......  
+ 
 
 ----------------------------------------
 
@@ -142,6 +133,5 @@ title: 服务平台
 
 ## 其它
 
-[涂图（TuSDK）](http://tusdk.com/) - 专注于移动平台图像个性化技术服务，以 SDK 形式，帮助 app 快速拥有高端图像处理功能，有效降低整体研发成本，迅速提升产品内容质量与市场竞争力。  
+[涂图（TuSDK）](http://tusdk.com/) - 专注于移动平台图像个性化技术服务，以 SDK 形式，帮助 app 快速拥有高端图像处理功能，有效降低整体研发成本，迅速提升产品内容质量与市场竞争力。     
 
-G*W

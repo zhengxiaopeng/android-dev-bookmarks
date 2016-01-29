@@ -54,6 +54,14 @@ title: 官方资料
 
 ----------------------------------------
 
+
+## 其它文档
+[Android Plugin DSL Reference](http://google.github.io/android-gradle-dsl/current/)  -  DSL reference for Android Gradle Plugin.   
+[Android Testing Support Library](https://google.github.io/android-testing-support-library/)  
+
+
+----------------------------------------
+
 ## 其它   
 
 [I/O 2015 Code Labs](https://io2015codelabs.appspot.com/)   
@@ -62,10 +70,4 @@ title: 官方资料
 [Cloud Test Lab]([](https://developers.google.com/cloud-test-lab/))   
 
 
-
-----------------------------------------
-
-### 其它文档
-[Android Plugin DSL Reference](http://google.github.io/android-gradle-dsl/current/)  -  DSL reference for Android Gradle Plugin.   
-[Android Testing Support Library](https://google.github.io/android-testing-support-library/)   
-
+  

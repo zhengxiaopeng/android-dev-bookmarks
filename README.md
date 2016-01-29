@@ -3,11 +3,23 @@
 Android 开发者的浏览器书签 - http://adb.rocko.xyz
 
 
+## Browser bookmarks file
+
+点击项目[Releases](https://github.com/zhengxiaopeng/android-dev-bookmarks/releases)下载浏览器书签文件  
+`或`   
+自己生成项目的浏览器书签文件
+
+``` Bash
+chmod a+x generate_browser_bookmarks_html_file.sh
+./generate_browser_bookmarks_html_file.sh
+```
+然后在项目根目录下生成`android-dev-bookmarks.html`文件，最后在浏览器（Chrome 或 Firefox）的书签管理器里导入此文件即可。
+
 ## ToDo 
 
 - **内容持续更新**
 - ~~整理成站点~~ - [Android Dev Bookmarks](http://adb.rocko.xyz)    
-- Release 浏览器书签文件
+- ~~Release 浏览器书签文件~~ [戳我](https://github.com/zhengxiaopeng/android-dev-bookmarks/releases)，隔一段时间更新
 - Chrome 插件
 
 

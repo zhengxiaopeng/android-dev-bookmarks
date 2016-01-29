@@ -16,7 +16,3 @@ title: 教程文档
 [移动开发-Android](http://wiki.jikexueyuan.com/list/android/) - 极客学院 Wiki   
 [Android开发专区](http://www.oschina.net/android/2/) 开源中国 Android 详细分类专区    
 [RxJava Essentials 中文翻译版](http://rxjava.yuxingxin.com/)    
-
-
-
-

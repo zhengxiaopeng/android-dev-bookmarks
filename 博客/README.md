@@ -3,9 +3,7 @@ title: 博客
 
 ## Android
 
-### 国内   
-
-#### CSDN   
+### 国内
 
 [老罗的Android之旅](http://blog.csdn.net/Luoshengyang/)   
 [郭霖的专栏](http://blog.csdn.net/guolin_blog)   
@@ -21,18 +19,11 @@ title: 博客
 [Innost的专栏 - 阿拉神农](http://blog.csdn.net/innost)    
 [hellogv的专栏](http://blog.csdn.net/hellogv)   
 [Tomcat的猫](http://blog.csdn.net/eclipsexys)   
-[大头鬼Bruce](http://blog.csdn.net/lzyzsd/)   
-
-
-####  其它博客平台   
-
+[大头鬼Bruce](http://blog.csdn.net/lzyzsd/)    
+[凯子哥](http://blog.csdn.net/zhaokaiqiang1992)   
 [农民伯伯](http://www.cnblogs.com/over140/)   
 [张涛OSC](http://my.oschina.net/kymjs/blog)     
 [wyouflf](http://my.oschina.net/u/1171837)  
-
-
-#### 个人博客    
-
 [Trinea](http://www.trinea.cn/)   
 [代码家](http://blog.daimajia.com/)   
 [stormzhang](http://stormzhang.com/)   
@@ -56,10 +47,7 @@ title: 博客
 [雨松MOMO](http://www.xuanyusong.com/)   
 [Drakeet的个人博客](http://drakeet.me/)     
 [廖祜秋liaohuqiu_秋百万](http://liaohuqiu.net/cn/)    
-[技术小黑屋](http://droidyue.com/)    
-[凯子哥](http://blog.csdn.net/zhaokaiqiang1992)   
-[]()
-
+[技术小黑屋](http://droidyue.com/)       
 
 
 ### 国外   
