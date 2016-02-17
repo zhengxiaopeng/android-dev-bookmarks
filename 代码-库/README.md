@@ -24,6 +24,8 @@ title: 代码-库
 [Android Gems](http://www.android-gems.com/)   
 [AndroidLibs](https://android-libs.com/)    
 [codeKK开源项目集合](http://p.codekk.com/)    
+[libtastic](http://www.libtastic.com/) - 通过流行的应用来发现 Top Android libraries，支持应用搜索。   
+[AppBrain - libraries](http://www.appbrain.com/stats/libraries/dev) - AppBrain 上分析的库使用排行。   
 
 
 ----------------------------------------
@@ -32,4 +34,5 @@ title: 代码-库
 
 [F-Droid](https://f-droid.org/) - Free and Open Source Android App Repository   
 [Android Open Source Project](http://www.androidopensourceproject.com/) - A collection of android open source project    
+[Open-Source Android Apps](https://github.com/pcqpcq/open-source-android-apps) - GitHub 上的项目，收集优秀的开源 App，分类详细内容多。   
 

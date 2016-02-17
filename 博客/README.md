@@ -94,6 +94,7 @@ title: 博客
 [Lucas Rocha](http://lucasr.org/)   
 [UDI COHEN](http://blog.udinic.com/)     
 [Yigit Boyar](http://www.birbit.com/)    
+[Android Bookmarks](http://androidbookmarks.net/) - Android文章分类汇总   
 
 
 ----------------------------------------
@@ -132,6 +133,6 @@ title: 博客
 [THE NERD BLOG](https://www.bignerdranch.com/blog/)    
 [Instagram Engineering](http://instagram-engineering.tumblr.com/)   
 [LinkedIn Engineering](https://engineering.linkedin.com/)    
-[Bugly博客](http://bugly.qq.com/blog/)    
-[Android Bookmarks](http://androidbookmarks.net/) - Android文章分类汇总
+[Bugly博客](http://bugly.qq.com/blog/)      
+[500px Engineering Blog](http://developers.500px.com/)   
 

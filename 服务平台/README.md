@@ -17,7 +17,9 @@ title: 服务平台
 
 ### 发行
 
-[酷传](http://www.coolchuan.com/) - 让上传更简单|APP推广_APP发布_APP监控_APP开发者_开发者平台
+[酷传](http://www.coolchuan.com/) - 让上传更简单|APP推广_APP发布_APP监控_APP开发者_开发者平台   
+[fastlane](https://fastlane.tools/) - 一系列方便移动开发发布应用的工具，大大提高效率节省时间。  
+
 
 ### 内测
 
@@ -77,6 +79,8 @@ title: 服务平台
 [易测云](http://www.yiceyun.com/)   
 [Testdroid](http://testdroid.com/)   
 [TestObject](https://testobject.com/)    
+[TestBird ](http://www.testbird.com/)   
+[优测网](http://utest.qq.com/)   
 
 
 ----------------------------------------
@@ -134,4 +138,5 @@ title: 服务平台
 ## 其它
 
 [涂图（TuSDK）](http://tusdk.com/) - 专注于移动平台图像个性化技术服务，以 SDK 形式，帮助 app 快速拥有高端图像处理功能，有效降低整体研发成本，迅速提升产品内容质量与市场竞争力。     
+[buddybuild ](https://www.buddybuild.com/) - 类自动集成，登录账号可以直接构建 GitHub、Bitbucket、Gitlab 等仓库上的项目。   
 

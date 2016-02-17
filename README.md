@@ -1,11 +1,12 @@
 # Android Dev Bookmarks(ADB)
 
-Android 开发者的浏览器书签 - http://adb.rocko.xyz
+Android 开发者的浏览器书签 - http://adb.rocko.xyz   
+主要收集 Android 开发者的站点资源，目前更新按每一期进行，过往更新文章内容[戳我](http://rocko.xyz/categories/Android-Dev-Bookmarks/)。
 
 
 ## Browser bookmarks file
 **一键导入浏览器**  
-点击项目[Releases](https://github.com/zhengxiaopeng/android-dev-bookmarks/releases)下载浏览器书签文件  
+点击项目[Release](https://github.com/zhengxiaopeng/android-dev-bookmarks/releases)下载最新浏览器书签文件  
 `或`   
 自己生成项目的浏览器书签文件
 
@@ -17,7 +18,7 @@ chmod a+x generate_browser_bookmarks_html_file.sh
 最后在浏览器（Chrome 或 Firefox）的书签管理器里导入此文件即可  
 
 
-`NOTE: `一段时间 Release 书签文件，[ADB](http://adb.rocko.xyz)站点是保持最新内容的。
+`NOTE: `每一期 Release 书签文件，[ADB](http://adb.rocko.xyz)站点也会同步更新并且 ADB 上才会有一些简要的站点说明，书签文件里是没有的。
 
 ## ToDo 
 
@@ -29,13 +30,16 @@ chmod a+x generate_browser_bookmarks_html_file.sh
 
 ## Contribution
 
-欢迎 [Issues](https://github.com/zhengxiaopeng/android-dev-bookmarks/issues) 或 [Pull requests](https://github.com/zhengxiaopeng/android-dev-bookmarks/pulls)，或者在站点里[留言](http://adb.rocko.xyz/log/)。   
+欢迎 [Issues](https://github.com/zhengxiaopeng/android-dev-bookmarks/issues) 或 [Pull requests](https://github.com/zhengxiaopeng/android-dev-bookmarks/pulls) 或到[ADB](http://adb.rocko.xyz/)里留言。    
+
+
 如果要查看项目中是否已收录某网站，clone 项目后可用如下命令：  
 
 ``` Bash
 grep -r "关键字"
 git grep "关键字"
 ``` 
+或者直接在此项目页面所搜网站的域名关键字：[Search here](https://github.com/zhengxiaopeng/android-dev-bookmarks/search?utf8=%E2%9C%93&q=&type=Code)
 
 
 ## Share

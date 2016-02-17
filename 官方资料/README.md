@@ -58,6 +58,8 @@ title: 官方资料
 ## 其它文档
 [Android Plugin DSL Reference](http://google.github.io/android-gradle-dsl/current/)  -  DSL reference for Android Gradle Plugin.   
 [Android Testing Support Library](https://google.github.io/android-testing-support-library/)  
+[Google Java Style](http://google.github.io/styleguide/javaguide.html) - Google Java 编码规范文档   
+[High-Performance Audio on Android ](https://googlesamples.github.io/android-audio-high-performance/) - 创建高性能的音频应用，一些开发向导、相关资料链接、代码示例。   
 
 
 ----------------------------------------
@@ -67,7 +69,7 @@ title: 官方资料
 [I/O 2015 Code Labs](https://io2015codelabs.appspot.com/)   
 [Nexus Files for Developers](https://developers.google.com/android/nexus/images/)   
 [Codelabs](http://www.code-labs.io/)    
-[Cloud Test Lab]([](https://developers.google.com/cloud-test-lab/))   
+[Cloud Test Lab]([](https://developers.google.com/cloud-test-lab/)   
 
 
   

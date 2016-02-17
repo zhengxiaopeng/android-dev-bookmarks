@@ -6,6 +6,7 @@ title: 工具-资源
 [AndroidDevTools](http://www.androiddevtools.cn/) - 收集整理Android开发所需的Android SDK、开发中用到的工具、Android开发教程、Android设计规范，免费的设计素材等。        
 [Jennift](http://jennift.com/)       
 [Inloop Open Source](http://inloop.github.io/)   
+[AppBrain Stats](http://www.appbrain.com/stats/) -  Android Operating System Statistics，包括 Play 上的 App 的各种状态、Android 设备的各种状态、Android library 使用的各种状态和排行等。    
 
 
 ----------------------------------------
@@ -29,6 +30,9 @@ title: 工具-资源
 [Medialoot](http://medialoot.com/) - Design is easy with Medialoot.   
 [material palette](http://www.materialpalette.com/) - Material Design 配色工具    
 [Android Holo Colors Generator](http://android-holo-colors.com/)  
+[Facebook Design Resources](http://facebook.github.io/design/) -  Facebook 设计师设计的免费设计资源。   
+[UpLabs](http://www.uplabs.com/) - 为开发者和设计师而生，每日发现新鲜的设计和开发资源、寻找一个特定的用户界面解决方案或库。   
+[Android™ Drawables](http://androiddrawables.com/) - 发现和比较不同版本 Android 平台上的资源文件。   
 
 
 ### 灵感 
@@ -87,6 +91,7 @@ title: 工具-资源
 [Madoko](https://www.madoko.net/) - Write Beautiful Documents(Markdown)   
 [slides](https://slides.com/) - Make better presentations，在线演示文稿     
 [Cacoo](https://cacoo.com/) - 网上制作图表实时协作   
+[ASCIIFlow Infinity](http://asciiflow.com/) - 在线画 ASCII 码字符图表，支持导入导出和保存到 Google Drive。   
 
 
 ----------------------------------------
@@ -99,5 +104,6 @@ title: 工具-资源
 [.gitignore.io](https://www.gitignore.io/) - 在线生成 .gitignore 文件    
 [mydevice.io](http://mydevice.io/) - 检测、查看设备屏幕屏幕信息    
 [AppBrain | Stats](http://www.appbrain.com/stats/libraries/dev) - Android 工具、库使用排行
+[Snapdrop](https://snapdrop.net/) - 通过 Snapdrop 网站方便地在设备间传送文件，两台设备同时打开此网站即可操作。   
 
 
