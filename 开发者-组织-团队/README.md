@@ -17,4 +17,5 @@ title: 开发者-组织-团队
 [FlymeOS](https://github.com/flymeOS)   
 [Flipboard](https://github.com/Flipboard)  
 [codekk](https://github.com/aosp-exchange-group)   
-[Qihoo360](github.com/Qihoo360)   
+[Qihoo360](github.com/Qihoo360)     
+[Facebook Samples](https://github.com/fbsamples)   

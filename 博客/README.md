@@ -47,8 +47,9 @@ title: 博客
 [雨松MOMO](http://www.xuanyusong.com/)   
 [Drakeet的个人博客](http://drakeet.me/)     
 [廖祜秋liaohuqiu_秋百万](http://liaohuqiu.net/cn/)    
-[技术小黑屋](http://droidyue.com/)       
-
+[技术小黑屋](http://droidyue.com/)         
+[Gityuan](http://gityuan.com/)  - 曾就职于IBM、Lenovo，目前就职于小米MIUI部门    
+   
 
 ### 国外   
 
@@ -94,7 +95,14 @@ title: 博客
 [Lucas Rocha](http://lucasr.org/)   
 [UDI COHEN](http://blog.udinic.com/)     
 [Yigit Boyar](http://www.birbit.com/)    
-[Android Bookmarks](http://androidbookmarks.net/) - Android文章分类汇总   
+[Android Bookmarks](http://androidbookmarks.net/) - Android文章分类汇总     
+[OpenSecurity](http://opensecurity.in/) -  Mobile-Security-Framework (MobSF)作者  
+[Colt McAnlis](https://medium.com/@duhroach) - Editor of Google Developers.  
+[Joanna Smith](https://medium.com/@dontmesswithjo) - Developer Advocate for Android trying to help developers #BuildBetterApps   
+[Ian Lake](https://medium.com/@ianhlake) - Android Developer Advocate at Google and Runner   
+[Wojtek Kaliciński](https://medium.com/@wkalicinski) - Android Developer Advocate @ Google   
+[Reto Meier](https://medium.com/@retomeier) - Android Developer Advocate @ Google, software engineer, and author of Professional Android 4 Application Development.   
+[Riggaroo](https://riggaroo.co.za/) - Google Developer Expert for Android. Senior Android Developer based in South Africa.   
 
 
 ----------------------------------------
@@ -134,5 +142,6 @@ title: 博客
 [Instagram Engineering](http://instagram-engineering.tumblr.com/)   
 [LinkedIn Engineering](https://engineering.linkedin.com/)    
 [Bugly博客](http://bugly.qq.com/blog/)      
-[500px Engineering Blog](http://developers.500px.com/)   
+[500px Engineering Blog](http://developers.500px.com/)      
+[Yalantis](yalantis.com/blog/) - Blog about app development.
 

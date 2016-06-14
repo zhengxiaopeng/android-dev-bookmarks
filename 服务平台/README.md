@@ -60,7 +60,9 @@ title: 服务平台
 [LeanCloud](https://leancloud.cn/) - 为应用开发提供一站式解决方案，包括：数据存储、用户管理、消息推送、应用统计、社交分享、实时聊天等服务，让开发者彻底抛弃后端负担，专注于提升用户体验，最大限度提升产品发布、迭代周期，在市场上占领先机。   
 [Bmob](http://www.bmob.cn/) - Bmob移动后端云服务平台    
 [APICloud](http://www.apicloud.com/)   
-[七牛云存储](http://www.qiniu.com/)
+[七牛云存储](http://www.qiniu.com/)   
+[UCloud](https://www.ucloud.cn/) - UCloud，云服务，云主机，云服务器   
+
 
 ----------------------------------------
 
@@ -135,8 +137,16 @@ title: 服务平台
 
 ----------------------------------------
 
+## 性能
+
+[OneAPM](http://www.oneapm.com/) - OneAPM,蓝海讯通,应用性能管理,应用性能监控,APM应用性能管理,APM应用性能监控   
+[NimbleDroid](https://nimbledroid.com/) - Automated performance analysis for every build of your app  
+
+
+----------------------------------------  
+
 ## 其它
 
 [涂图（TuSDK）](http://tusdk.com/) - 专注于移动平台图像个性化技术服务，以 SDK 形式，帮助 app 快速拥有高端图像处理功能，有效降低整体研发成本，迅速提升产品内容质量与市场竞争力。     
 [buddybuild ](https://www.buddybuild.com/) - 类自动集成，登录账号可以直接构建 GitHub、Bitbucket、Gitlab 等仓库上的项目。   
-
+[Code Review](http://reviewcode.cn/) - 最高效的代码审核服务

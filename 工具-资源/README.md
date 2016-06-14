@@ -7,6 +7,7 @@ title: 工具-资源
 [Jennift](http://jennift.com/)       
 [Inloop Open Source](http://inloop.github.io/)   
 [AppBrain Stats](http://www.appbrain.com/stats/) -  Android Operating System Statistics，包括 Play 上的 App 的各种状态、Android 设备的各种状态、Android library 使用的各种状态和排行等。    
+[友盟全域指数](http://www.umindex.com/devices/android_resolutions)    
 
 
 ----------------------------------------
@@ -43,7 +44,8 @@ title: 工具-资源
 [User Interfaces IO](http://userinterfaces.io/)   
 [coolors](http://coolors.co/) - The super  fast colour schemes generator for cool designers   
 [dribbble](https://dribbble.com/)    
-[Color Hunt](http://colorhunt.co/) - Beautiful Colors, Every Day.     
+[Color Hunt](http://colorhunt.co/) - Beautiful Colors, Every Day.       
+[Color Hex Color Codes](http://www.color-hex.com/) - Color Palettes. 搜索输出详细信息   
 
 
 ### 图标-字体 
@@ -60,7 +62,8 @@ title: 工具-资源
 [Material Design Iconic Font](http://zavoloklom.github.io/material-design-iconic-font/index.html)    
 [icons4android](http://www.icons4android.com/)    
 [Android Icons](http://www.androidicons.com/)   
-[Material Design Icons](https://materialdesignicons.com/)  
+[Material Design Icons](https://materialdesignicons.com/)    
+[ionicons](http://ionicons.com/)    
 
 ----------------------------------------
 
@@ -93,6 +96,13 @@ title: 工具-资源
 [Cacoo](https://cacoo.com/) - 网上制作图表实时协作   
 [ASCIIFlow Infinity](http://asciiflow.com/) - 在线画 ASCII 码字符图表，支持导入导出和保存到 Google Drive。   
 
+----------------------------------------
+
+## 工具
+
+[DB Browser for SQLite](http://sqlitebrowser.org/) - 好用的SQLite桌面客户端   
+[tldr](http://www.ostera.io/tldr.jsx/) - tldr 在线版，命令行好帮手  
+[Methods Count](http://www.methodscount.com/)  - Methods Count
 
 ----------------------------------------
 

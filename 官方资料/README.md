@@ -12,7 +12,8 @@ title: 官方资料
 [Android Code Review](https://android-review.googlesource.com/)     
 [github.com/android](http://android.github.io/)     
 [android-developer-preview](https://code.google.com/p/android-developer-preview/) - A public project for reporting issues with Android Developer Preview releases   
-[Android Dashboards](http://developer.android.com/intl/zh-cn/about/dashboards/index.html) - Android 平台数据，7天一更新   
+[Android Dashboards](http://developer.android.com/intl/zh-cn/about/dashboards/index.html) - Android 平台数据，7天一更新    
+[Git repositories on android](https://android.googlesource.com/) - Android源码必备   
 
 
 ----------------------------------------
@@ -24,7 +25,8 @@ title: 官方资料
 [Google Office Blog](http://googleblog.blogspot.com/)   
 [Google Devlopers Blog](http://googledevelopers.blogspot.com/)    
 [Google Open Source Blog](http://google-opensource.blogspot.com/)    
-[Google testing blog](http://googletesting.blogspot.com/)   
+[Google testing blog](http://googletesting.blogspot.com/)     
+[Google Developers @ Dedium](medium.com/google-developers) - For Engineers, by Engineers   
 
 
 ----------------------------------------
@@ -70,6 +72,6 @@ title: 官方资料
 [Nexus Files for Developers](https://developers.google.com/android/nexus/images/)   
 [Codelabs](http://www.code-labs.io/)    
 [Cloud Test Lab]([](https://developers.google.com/cloud-test-lab/)   
-
+[Material icons](https://design.google.com/icons/) - Material icons 官方主页，提供搜索下载  
 
   
