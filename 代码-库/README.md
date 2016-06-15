@@ -8,7 +8,7 @@ title: 代码-库
 [codota](http://www.codota.com/) - Find Great Code Examples   
 [searchcode](https://searchcode.com/) - Search over 20 billion lines of code.   
 [codota](https://www.codota.com/) - Find Great Code Examples  
-
+.
 
 ----------------------------------------
 
@@ -26,13 +26,14 @@ title: 代码-库
 [codeKK开源项目集合](http://p.codekk.com/)    
 [libtastic](http://www.libtastic.com/) - 通过流行的应用来发现 Top Android libraries，支持应用搜索。   
 [AppBrain - libraries](http://www.appbrain.com/stats/libraries/dev) - AppBrain 上分析的库使用排行。   
-
+.
 
 ----------------------------------------
 
-## 开源 App
+## 开源App
 
 [F-Droid](https://f-droid.org/) - Free and Open Source Android App Repository   
 [Android Open Source Project](http://www.androidopensourceproject.com/) - A collection of android open source project    
 [Open-Source Android Apps](https://github.com/pcqpcq/open-source-android-apps) - GitHub 上的项目，收集优秀的开源 App，分类详细内容多。   
 
+.

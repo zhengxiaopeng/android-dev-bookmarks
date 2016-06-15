@@ -7,12 +7,13 @@ title: 工具-资源
 [Jennift](http://jennift.com/)       
 [Inloop Open Source](http://inloop.github.io/)   
 [AppBrain Stats](http://www.appbrain.com/stats/) -  Android Operating System Statistics，包括 Play 上的 App 的各种状态、Android 设备的各种状态、Android library 使用的各种状态和排行等。    
-[友盟全域指数](http://www.umindex.com/devices/android_resolutions)    
+[友盟全域指数](http://www.umindex.com/devices/android_resolutions)     
 
+.
 
 ----------------------------------------
 
-## UI 界面设计
+## UI界面设计
 
 ### 原型
 
@@ -21,11 +22,11 @@ title: 工具-资源
 [Pixate](http://www.pixate.com/) - Make your ideas a reality    
 [墨刀](https://modao.cc/)   
 [invision](http://www.invisionapp.com/)   
-[马克鳗](http://www.getmarkman.com/) - 高效的设计稿标注、测量工具    
+[马克鳗](http://www.getmarkman.com/) - 高效的设计稿标注、测量工具     
 
+.
 
-
-###  资源工具   
+### 资源工具   
 
 [AndroidAssetStudio](http://romannurik.github.io/AndroidAssetStudio/)    
 [Medialoot](http://medialoot.com/) - Design is easy with Medialoot.   
@@ -33,8 +34,9 @@ title: 工具-资源
 [Android Holo Colors Generator](http://android-holo-colors.com/)  
 [Facebook Design Resources](http://facebook.github.io/design/) -  Facebook 设计师设计的免费设计资源。   
 [UpLabs](http://www.uplabs.com/) - 为开发者和设计师而生，每日发现新鲜的设计和开发资源、寻找一个特定的用户界面解决方案或库。   
-[Android™ Drawables](http://androiddrawables.com/) - 发现和比较不同版本 Android 平台上的资源文件。   
+[Android™ Drawables](http://androiddrawables.com/) - 发现和比较不同版本 Android 平台上的资源文件。    
 
+.
 
 ### 灵感 
 
@@ -45,8 +47,9 @@ title: 工具-资源
 [coolors](http://coolors.co/) - The super  fast colour schemes generator for cool designers   
 [dribbble](https://dribbble.com/)    
 [Color Hunt](http://colorhunt.co/) - Beautiful Colors, Every Day.       
-[Color Hex Color Codes](http://www.color-hex.com/) - Color Palettes. 搜索输出详细信息   
+[Color Hex Color Codes](http://www.color-hex.com/) - Color Palettes. 搜索输出详细信息    
 
+.
 
 ### 图标-字体 
   
@@ -62,8 +65,10 @@ title: 工具-资源
 [Material Design Iconic Font](http://zavoloklom.github.io/material-design-iconic-font/index.html)    
 [icons4android](http://www.icons4android.com/)    
 [Android Icons](http://www.androidicons.com/)   
-[Material Design Icons](https://materialdesignicons.com/)    
-[ionicons](http://ionicons.com/)    
+[Material Design Icons](https://materialdesignicons.com/)     
+[ionicons](http://ionicons.com/)     
+
+..
 
 ----------------------------------------
 
@@ -76,14 +81,16 @@ title: 工具-资源
 [Github Awards](http://github-awards.com/) - Discover your ranking on GitHub    
 [github rank](http://githubrank.com/) - Github 中国用户排行榜   
 [GitHuber.info](http://githuber.info/) - 打造最好用的 GitHub 人才搜索工具    
-[JitPack.io](https://jitpack.io/) - Easy to use package repository for GitHub    
+[JitPack.io](https://jitpack.io/) - Easy to use package repository for GitHub      
 
+.
 
 ### 知识管理
 
 [feedly](https://feedly.com/) - 可跨平台阅读的 RSS 阅读器   
-[Pocket](https://getpocket.com/) - 发现想在以后查看的内容时，先将其放入 Pocket  
+[Pocket](https://getpocket.com/) - 发现想在以后查看的内容时，先将其放入 Pocket    
 
+..
 
 ----------------------------------------
 
@@ -94,15 +101,19 @@ title: 工具-资源
 [Madoko](https://www.madoko.net/) - Write Beautiful Documents(Markdown)   
 [slides](https://slides.com/) - Make better presentations，在线演示文稿     
 [Cacoo](https://cacoo.com/) - 网上制作图表实时协作   
-[ASCIIFlow Infinity](http://asciiflow.com/) - 在线画 ASCII 码字符图表，支持导入导出和保存到 Google Drive。   
+[ASCIIFlow Infinity](http://asciiflow.com/) - 在线画 ASCII 码字符图表，支持导入导出和保存到 Google Drive  
+
+.
 
 ----------------------------------------
 
 ## 工具
 
 [DB Browser for SQLite](http://sqlitebrowser.org/) - 好用的SQLite桌面客户端   
-[tldr](http://www.ostera.io/tldr.jsx/) - tldr 在线版，命令行好帮手  
-[Methods Count](http://www.methodscount.com/)  - Methods Count
+[tldr](http://www.ostera.io/tldr.jsx/) - tldr在线版，命令行好帮手  
+[Methods Count](http://www.methodscount.com/)  - Methods Count   
+
+.
 
 ----------------------------------------
 
@@ -111,9 +122,9 @@ title: 工具-资源
 [Appetize.io](https://appetize.io/demo) - Web 在线跑起你的 App   
 [jsonschema2pojo](http://www.jsonschema2pojo.org/) - 一个强大的 Json 文本转换为 Java 类的工具    
 [Regulex](https://jex.im/regulex/) - 正则表达式工具          
-[.gitignore.io](https://www.gitignore.io/) - 在线生成 .gitignore 文件    
+[gitignore.io](https://www.gitignore.io/) - 在线生成 .gitignore 文件    
 [mydevice.io](http://mydevice.io/) - 检测、查看设备屏幕屏幕信息    
 [AppBrain | Stats](http://www.appbrain.com/stats/libraries/dev) - Android 工具、库使用排行
-[Snapdrop](https://snapdrop.net/) - 通过 Snapdrop 网站方便地在设备间传送文件，两台设备同时打开此网站即可操作。   
+[Snapdrop](https://snapdrop.net/) - 通过 Snapdrop 网站方便地在设备间传送文件，两台设备同时打开此网站即可操作。     
 
-
+.

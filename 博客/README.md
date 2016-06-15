@@ -49,7 +49,8 @@ title: 博客
 [廖祜秋liaohuqiu_秋百万](http://liaohuqiu.net/cn/)    
 [技术小黑屋](http://droidyue.com/)         
 [Gityuan](http://gityuan.com/)  - 曾就职于IBM、Lenovo，目前就职于小米MIUI部门    
-   
+
+.
 
 ### 国外   
 
@@ -102,8 +103,9 @@ title: 博客
 [Ian Lake](https://medium.com/@ianhlake) - Android Developer Advocate at Google and Runner   
 [Wojtek Kaliciński](https://medium.com/@wkalicinski) - Android Developer Advocate @ Google   
 [Reto Meier](https://medium.com/@retomeier) - Android Developer Advocate @ Google, software engineer, and author of Professional Android 4 Application Development.   
-[Riggaroo](https://riggaroo.co.za/) - Google Developer Expert for Android. Senior Android Developer based in South Africa.   
+[Riggaroo](https://riggaroo.co.za/) - Google Developer Expert for Android. Senior Android Developer based in South Africa   
 
+..
 
 ----------------------------------------
 
@@ -112,12 +114,14 @@ title: 博客
 [deepinmind的技术博客](http://it.deepinmind.com/)   
 [花样的年华](http://calvin1978.blogcn.com/)     
 
+.
 
 ----------------------------------------
 
 ## 算法   
 [结构之法 算法之道](http://blog.csdn.net/v_july_v)     
 
+.
 
 ----------------------------------------
 
@@ -143,5 +147,6 @@ title: 博客
 [LinkedIn Engineering](https://engineering.linkedin.com/)    
 [Bugly博客](http://bugly.qq.com/blog/)      
 [500px Engineering Blog](http://developers.500px.com/)      
-[Yalantis](yalantis.com/blog/) - Blog about app development.
+[Yalantis](http://yalantis.com/blog/)  
 
+.

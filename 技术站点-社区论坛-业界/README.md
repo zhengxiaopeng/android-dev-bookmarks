@@ -8,7 +8,7 @@ title: 技术站点-社区论坛-业界
 [InfoQ](http://www.infoq.com/cn)   
 [伯乐在线](http://www.jobbole.com/)   
 [IT江湖](http://blog.jobbole.com/)    
-
+.
 
 ----------------------------------------
 
@@ -18,7 +18,7 @@ title: 技术站点-社区论坛-业界
 [IBM developerWorks - Java 开发](http://www.ibm.com/developerworks/cn/java/)   
 [IBM developerWorks - Java 核心技术专题](http://www.ibm.com/developerworks/cn/java/coretech/)   
 [ProgramCreek - Java 开发](http://www.programcreek.com/)   
-
+.
 
 ----------------------------------------
 
@@ -27,13 +27,14 @@ title: 技术站点-社区论坛-业界
 [codeKK开源项目源码分析](http://codekk.com/)   
 [泡在网上的日子](http://www.jcodecraeer.com/)   
 [开发技术前线](http://www.devtf.cn/)    
- 
+ .
+
 ----------------------------------------
 
 ## 测试
 
 [TesterHome 移动测试](https://testerhome.com/)   
-
+.
 
 ----------------------------------------
 
@@ -51,7 +52,7 @@ title: 技术站点-社区论坛-业界
 [阿里聚安全](http://jaq.alibaba.com/blog.htm?spm=0.0.0.0.d4b8ST)     
 [飘云阁安全论坛](http://bbs.chinapyg.com/)    
 [FreeBuf](http://www.freebuf.com/)    
-
+.
 
 ----------------------------------------
 
@@ -60,8 +61,9 @@ title: 技术站点-社区论坛-业界
 [Reddit - androiddev](https://www.reddit.com/r/androiddev)   
 [开源中国社区](http://www.oschina.net/)   
 [V2EX](http://www.v2ex.com/)    
-[xda-developers](http://forum.xda-developers.com/)   
+[xda-developers](http://forum.xda-developers.com/)    
 
+.
 
 ----------------------------------------
 
@@ -70,6 +72,6 @@ title: 技术站点-社区论坛-业界
 [stackoverflow](http://stackoverflow.com/)    
 [segmentfault](http://segmentfault.com/)   
 [Quora](https://www.quora.com/)   
-[Zhihu](http://www.zhihu.com/)
+[Zhihu](http://www.zhihu.com/)   
 
-
+.

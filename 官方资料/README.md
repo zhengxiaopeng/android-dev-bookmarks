@@ -13,8 +13,9 @@ title: 官方资料
 [github.com/android](http://android.github.io/)     
 [android-developer-preview](https://code.google.com/p/android-developer-preview/) - A public project for reporting issues with Android Developer Preview releases   
 [Android Dashboards](http://developer.android.com/intl/zh-cn/about/dashboards/index.html) - Android 平台数据，7天一更新    
-[Git repositories on android](https://android.googlesource.com/) - Android源码必备   
+[Git repositories on android](https://android.googlesource.com/) - Android源码必备    
 
+.
 
 ----------------------------------------
 
@@ -26,8 +27,9 @@ title: 官方资料
 [Google Devlopers Blog](http://googledevelopers.blogspot.com/)    
 [Google Open Source Blog](http://google-opensource.blogspot.com/)    
 [Google testing blog](http://googletesting.blogspot.com/)     
-[Google Developers @ Dedium](medium.com/google-developers) - For Engineers, by Engineers   
+[Google Developers @ Dedium](medium.com/google-developers) - For Engineers, by Engineers    
 
+.
 
 ----------------------------------------
 
@@ -43,16 +45,18 @@ title: 官方资料
 [Google Plus 社群 - Android Developer Tools](https://plus.google.com/communities/114791428968349268860)   
 [Google Plus 社群 - Android Development](https://plus.google.com/communities/105153134372062985968)    
 [Google Plus 社群 - Android Performance Patterns](https://plus.google.com/communities/116342551728637785407)    
-[Twitter - Android Developers](https://twitter.com/androiddev/)    
+[Twitter - Android Developers](https://twitter.com/androiddev/)     
 
+.
 
 ----------------------------------------
 
 ## 活动会议
 
 [Google I/O](https://events.google.com/) - [I/O 2015](https://events.google.com/io2015/)   
-[Android Dev Summit](https://androiddevsummit.withgoogle.com/)   
+[Android Dev Summit](https://androiddevsummit.withgoogle.com/)    
 
+.
 
 ----------------------------------------
 
@@ -61,8 +65,9 @@ title: 官方资料
 [Android Plugin DSL Reference](http://google.github.io/android-gradle-dsl/current/)  -  DSL reference for Android Gradle Plugin.   
 [Android Testing Support Library](https://google.github.io/android-testing-support-library/)  
 [Google Java Style](http://google.github.io/styleguide/javaguide.html) - Google Java 编码规范文档   
-[High-Performance Audio on Android ](https://googlesamples.github.io/android-audio-high-performance/) - 创建高性能的音频应用，一些开发向导、相关资料链接、代码示例。   
+[High-Performance Audio on Android ](https://googlesamples.github.io/android-audio-high-performance/) - 创建高性能的音频应用，一些开发向导、相关资料链接、代码示例。    
 
+.
 
 ----------------------------------------
 
@@ -72,6 +77,6 @@ title: 官方资料
 [Nexus Files for Developers](https://developers.google.com/android/nexus/images/)   
 [Codelabs](http://www.code-labs.io/)    
 [Cloud Test Lab]([](https://developers.google.com/cloud-test-lab/)   
-[Material icons](https://design.google.com/icons/) - Material icons 官方主页，提供搜索下载  
+[Material icons](https://design.google.com/icons/) - Material icons 官方主页，提供搜索下载    
 
-  
+.

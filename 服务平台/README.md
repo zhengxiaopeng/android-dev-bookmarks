@@ -8,8 +8,9 @@ title: 服务平台
 [友盟](https://www.umeng.com/) - 统计、推送、社交、消息推送、微社区、自动更新、在线参数、多媒体服务、即时通讯   
 [Mob](http://www.mob.com/) - `ShareSDK：` 社会化功能，`ShareREC：` 手游录像解决方案，`短信验证码SDK`、`BigApp：一键生成移动 Discuz 论坛`、`MobAPI（API 云）：`   
 [百度开发者中心](http://developer.baidu.com/) - 百度手机助手、百度推送、地图、百度移动统计、人脸识别、云测等等等  
-[小米开放平台](http://dev.xiaomi.com/) - 消息推送、检查更新、小米账号登陆、小米支付服务、小米统计
+[小米开放平台](http://dev.xiaomi.com/) - 消息推送、检查更新、小米账号登陆、小米支付服务、小米统计    
 
+.
 
 ----------------------------------------
 
@@ -18,21 +19,25 @@ title: 服务平台
 ### 发行
 
 [酷传](http://www.coolchuan.com/) - 让上传更简单|APP推广_APP发布_APP监控_APP开发者_开发者平台   
-[fastlane](https://fastlane.tools/) - 一系列方便移动开发发布应用的工具，大大提高效率节省时间。  
+[fastlane](https://fastlane.tools/) - 一系列方便移动开发发布应用的工具，大大提高效率节省时间。   
 
+.
 
 ### 内测
 
 [Bugly内测](http://beta.qq.com/)   
 [fir.im](https://fir.im/) - 免费应用内测托管平台|Android应用内测分发   
-[蒲公英](http://www.pgyer.com/)   
- 
+[蒲公英](http://www.pgyer.com/)    
+
+ ..
 
 ----------------------------------------
 
 ## 模块化
 
-[ApkPlug-移动应用模块化解决方案](http://www.apkplug.com/) - apkplug,应用内工具箱,插件化,模块化,android插件化,android模块化,APK动态加载,dex65536限制,轻应用,android换肤
+[ApkPlug-移动应用模块化解决方案](http://www.apkplug.com/) - apkplug,应用内工具箱,插件化,模块化,android插件化,android模块化,APK动态加载,dex65536限制,轻应用,android换肤    
+
+.
 
 ----------------------------------------
 
@@ -40,8 +45,9 @@ title: 服务平台
 
 [有米](https://www.youmi.net/)   
 [多盟](http://www.domob.cn/)   
-[万普](http://www.waps.cn/)   
+[万普](http://www.waps.cn/)    
 
+.
 
 ----------------------------------------
 
@@ -50,8 +56,9 @@ title: 服务平台
 [Ping++](https://pingxx.com/)  
 [BeeCloud](https://beecloud.cn/)   
 [支付宝](https://open.alipay.com/)   
-[银联](https://www.95516.com/)   
+[银联](https://www.95516.com/)    
 
+.
 
 ----------------------------------------
 
@@ -61,8 +68,9 @@ title: 服务平台
 [Bmob](http://www.bmob.cn/) - Bmob移动后端云服务平台    
 [APICloud](http://www.apicloud.com/)   
 [七牛云存储](http://www.qiniu.com/)   
-[UCloud](https://www.ucloud.cn/) - UCloud，云服务，云主机，云服务器   
+[UCloud](https://www.ucloud.cn/) - UCloud，云服务，云主机，云服务器    
 
+.
 
 ----------------------------------------
 
@@ -70,8 +78,9 @@ title: 服务平台
 
 [TalkingData](https://www.talkingdata.com/) - TalkingData移动大数据服务平台；提供全面的产品统计分析服务、权威的移动行业数据解析，帮助你用数据说话。  
 [魔方](http://www.imofan.com/)   
-[莲子数据](http://www.lotuseed.com/)   
+[莲子数据](http://www.lotuseed.com/)    
 
+.
 
 ----------------------------------------
 
@@ -82,8 +91,9 @@ title: 服务平台
 [Testdroid](http://testdroid.com/)   
 [TestObject](https://testobject.com/)    
 [TestBird ](http://www.testbird.com/)   
-[优测网](http://utest.qq.com/)   
+[优测网](http://utest.qq.com/)    
 
+.
 
 ----------------------------------------
 
@@ -92,8 +102,9 @@ title: 服务平台
 [API Store](http://apistore.baidu.com/)   
 [APIX](http://www.apix.cn/)   
 [聚合数据](https://www.juhe.cn/)   
-[SHOWAPI-易源接口](https://www.showapi.com/)   
+[SHOWAPI-易源接口](https://www.showapi.com/)    
 
+.
 
 ----------------------------------------
 
@@ -101,8 +112,9 @@ title: 服务平台
 
 [微博开放平台](http://open.weibo.com/)    
 [QQ互联](http://connect.qq.com/)    
-[微信开放平台](https://open.weixin.qq.com/) 
-......    
+[微信开放平台](https://open.weixin.qq.com/)   
+
+.
 
 ----------------------------------------
 
@@ -111,8 +123,9 @@ title: 服务平台
 [JPush极光推送](https://www.jpush.cn/)   
 [环信](http://www.easemob.com/) - 即时通信云    
 [个推](http://www.getui.com/)   
-[信鸽](http://xg.qq.com/)   
+[信鸽](http://xg.qq.com/)    
 
+.
 
 ----------------------------------------
 
@@ -122,8 +135,9 @@ title: 服务平台
 [爱加密](http://www.ijiami.cn/) - 爱加密移动信息安全服务商|安卓加密加固|APK反编译|android防破解   
 [梆梆安](http://www.bangcle.com/) - 梆梆安全是移动应用安全服务提供商，主要为安卓开发者提供安全评估、应用加固、渠道监测等服务。     
 [360加固宝](http://jiagu.360.cn/)   
-[娜迦](http://www.nagain.com/)   
+[娜迦](http://www.nagain.com/)    
 
+.
 
 ----------------------------------------
 
@@ -132,16 +146,18 @@ title: 服务平台
 [讯飞](http://www.xfyun.cn/) - 科大讯飞推出的全球首个移动互联网智能交互平台，为开发者免费提供：涵盖语音能力最全的增强型SDK，一站式人机智能语音交互解决方案，人脸识别，专业全面的移动应用分析。   
 [Face++ ](http://www.faceplusplus.com.cn/) - 提供简单易用，功能强大，平台通用的视觉服务。通过云端API、离线SDK、以及面向用户自主研发产品形式，提供世界一流的人脸检测、分析、识别技术    
 [腾讯优图开放平台](http://open.youtu.qq.com/) - 人脸、图片   
-[LinkFace](https://www.linkface.cn/)   
+[LinkFace](https://www.linkface.cn/)    
 
+.
 
 ----------------------------------------
 
 ## 性能
 
 [OneAPM](http://www.oneapm.com/) - OneAPM,蓝海讯通,应用性能管理,应用性能监控,APM应用性能管理,APM应用性能监控   
-[NimbleDroid](https://nimbledroid.com/) - Automated performance analysis for every build of your app  
+[NimbleDroid](https://nimbledroid.com/) - Automated performance analysis for every build of your app   
 
+.
 
 ----------------------------------------  
 
@@ -149,4 +165,6 @@ title: 服务平台
 
 [涂图（TuSDK）](http://tusdk.com/) - 专注于移动平台图像个性化技术服务，以 SDK 形式，帮助 app 快速拥有高端图像处理功能，有效降低整体研发成本，迅速提升产品内容质量与市场竞争力。     
 [buddybuild ](https://www.buddybuild.com/) - 类自动集成，登录账号可以直接构建 GitHub、Bitbucket、Gitlab 等仓库上的项目。   
-[Code Review](http://reviewcode.cn/) - 最高效的代码审核服务
+[Code Review](http://reviewcode.cn/) - 最高效的代码审核服务   
+
+.
