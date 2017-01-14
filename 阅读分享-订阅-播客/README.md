@@ -45,6 +45,8 @@ title: 阅读分享-订阅-播客
 ## 播客（Podcast）
 
 [Fragmented Podcast](http://fragmentedpodcast.com/)     
-[Teahour.fm](http://teahour.fm/) - Teahour由Terry，玎玎，Daniel，Kevin 和滚滚主持，会专注程序员感兴趣的话题，包括Web设计和开发，移动应用设计和开发，创业以及一切Geek 的话题。  
+[Teahour.fm](http://teahour.fm/) - Teahour由Terry，玎玎，Daniel，Kevin 和滚滚主持，会专注程序员感兴趣的话题，包括Web设计和开发，移动应用设计和开发，创业以及一切Geek 的话题。   
+[内核恐慌 — IPN 出品](https://ipn.li/kernelpanic/)  
+
 
 .

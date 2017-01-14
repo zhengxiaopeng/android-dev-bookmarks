@@ -7,7 +7,9 @@ title: 工具-资源
 [Jennift](http://jennift.com/)       
 [Inloop Open Source](http://inloop.github.io/)   
 [AppBrain Stats](http://www.appbrain.com/stats/) -  Android Operating System Statistics，包括 Play 上的 App 的各种状态、Android 设备的各种状态、Android library 使用的各种状态和排行等。    
-[友盟全域指数](http://www.umindex.com/devices/android_resolutions)     
+[友盟全域指数](http://www.umindex.com/devices/android_resolutions)       
+[StuQ 技能图谱](http://skill-map.stuq.org/) - 点技能树必备，GitHub 上下电子版。  
+
 
 .
 
@@ -34,7 +36,10 @@ title: 工具-资源
 [Android Holo Colors Generator](http://android-holo-colors.com/)  
 [Facebook Design Resources](http://facebook.github.io/design/) -  Facebook 设计师设计的免费设计资源。   
 [UpLabs](http://www.uplabs.com/) - 为开发者和设计师而生，每日发现新鲜的设计和开发资源、寻找一个特定的用户界面解决方案或库。   
-[Android™ Drawables](http://androiddrawables.com/) - 发现和比较不同版本 Android 平台上的资源文件。    
+[Android™ Drawables](http://androiddrawables.com/) - 发现和比较不同版本 Android 平台上的资源文件。      
+[Android Icon Animator](https://romannurik.github.io/AndroidIconAnimator/) -   
+[SVGOMG - SVGO's Missing GUI](https://jakearchibald.github.io/svgomg/)  
+
 
 .
 
@@ -111,7 +116,15 @@ title: 工具-资源
 
 [DB Browser for SQLite](http://sqlitebrowser.org/) - 好用的SQLite桌面客户端   
 [tldr](http://www.ostera.io/tldr.jsx/) - tldr在线版，命令行好帮手  
-[Methods Count](http://www.methodscount.com/)  - Methods Count   
+[Methods Count](http://www.methodscount.com/)  - Methods Count     
+[Regulex](https://jex.im/regulex/) - 正则表达式工具           
+[Useful Regex Patterns](https://projects.lukehaas.me/regexhub/)   
+[RegExr: Learn, Build, & Test RegEx](http://regexr.com/)   
+[SQLScout](http://www.idescout.com/wiki/index.php) - SQLScout is a plugin for Android Studio and IntelliJ IDEA that provides powerful, dedicated support for SQLite databases.
+ 收费    
+[ExynapBETA](http://exynap.com/) - Effortless Android Development. Android Studio 代码模板插件
+
+
 
 .
 
@@ -121,10 +134,13 @@ title: 工具-资源
 
 [Appetize.io](https://appetize.io/demo) - Web 在线跑起你的 App   
 [jsonschema2pojo](http://www.jsonschema2pojo.org/) - 一个强大的 Json 文本转换为 Java 类的工具    
-[Regulex](https://jex.im/regulex/) - 正则表达式工具          
 [gitignore.io](https://www.gitignore.io/) - 在线生成 .gitignore 文件    
 [mydevice.io](http://mydevice.io/) - 检测、查看设备屏幕屏幕信息    
 [AppBrain | Stats](http://www.appbrain.com/stats/libraries/dev) - Android 工具、库使用排行
-[Snapdrop](https://snapdrop.net/) - 通过 Snapdrop 网站方便地在设备间传送文件，两台设备同时打开此网站即可操作。     
+[Snapdrop](https://snapdrop.net/) - 通过 Snapdrop 网站方便地在设备间传送文件，两台设备同时打开此网站即可操作。   
+[APKMirror - Free APK Downloads - #APKPLZ #SOONBACKANSWER](http://www.apkmirror.com/)    
+[STF](http://openstf.io/) - Control and manage Android devices from your browser. 自建设备管理平台   
+
+
 
 .
